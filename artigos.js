@@ -1,0 +1,1112 @@
+﻿window.artigosUEP = [
+    {
+        "id": "uniao-dos-estudantes-de-pernambuco-realiza-seu-43-congresso",
+        "titulo": "União dos Estudantes de Pernambuco realiza seu 43° Congresso",
+        "data": "17 de maio de 2023",
+        "editoria": "Congresso",
+        "imagem": "https://averdade.org.br/wp-content/uploads/2024/03/P7-_-Congresso-UEP.jpg",
+        "imagens": [
+            "https://averdade.org.br/wp-content/uploads/2024/03/P7-_-Congresso-UEP.jpg"
+        ],
+        "resumo": "Nos dias 28 e 29 de abril, a UEP Cândido Pinto realizou seu 43º Congresso Estadual na UFRPE, Campus Recife, reunindo delegações de estudantes de várias regiões de Pernambuco.",
+        "corpo": [
+            "Nos dias 28 e 29 de abril, realizou-se na Universidade Federal Rural de Pernambuco, Campus Recife, o 43° Congresso Estadual da UEP – Cândido Pinto.",
+            "Hilsten Barros | Recife (PE)",
+            "O 43º Congresso da UEP reuniu delegações de estudantes de todo o estado, desde a Região Metropolitana e Zona da Mata, passando pelo Agreste, até o Sertão. A bancada de Serra Talhada esteve entre as maiores presentes.",
+            "A mesa de abertura contou com representantes do movimento estudantil, movimentos sociais e sindicais, mandatas parlamentares e militantes históricos do movimento estudantil pernambucano.",
+            "Após a abertura, a programação contou com atividade cultural e, no dia seguinte, grupos de trabalho sobre universidades privadas, permanência estudantil, orçamento das universidades públicas, cultura, defesa do SUS, vida das mulheres estudantes e combate ao extermínio da juventude negra.",
+            "O congresso também realizou um painel sobre memória, verdade e justiça, tema ligado à própria trajetória da UEP e às perseguições sofridas por lideranças estudantis durante a ditadura militar.",
+            "Na plenária final, foram aprovadas as propostas dos grupos de trabalho e eleita a nova diretoria da entidade para o mandato 2023/2025, com Jéssica Natália à frente da presidência.",
+            "Matéria publicada originalmente no Jornal A Verdade, edição nº 270."
+        ],
+        "autor": "Hilsten Barros",
+        "credito": "Fonte: Jornal A Verdade",
+        "origem": "https://averdade.org.br/2023/05/uniao-dos-estudantes-de-pernambuco-realiza-seu-43-congresso/"
+    },
+    {
+        "id": "congresso-historico-da-uep",
+        "titulo": "Congresso histórico da UEP",
+        "data": "30 de abril de 2017",
+        "editoria": "Congresso",
+        "imagem": "https://averdade.org.br/wp-content/uploads/2017/04/Foto-01.jpg",
+        "imagens": [
+            "https://averdade.org.br/wp-content/uploads/2017/04/Foto-01.jpg"
+        ],
+        "resumo": "Com o tema “Nenhum direito a menos. Nada a temer!”, mais de 400 estudantes pernambucanos participaram do 41º Congresso da UEP, realizado em Garanhuns.",
+        "corpo": [
+            "“Nenhum direito a menos. Nada a temer!” foi o tema que reuniu mais de 400 estudantes pernambucanos na cidade de Garanhuns, entre os dias 21 e 23 de abril, no 41º Congresso da União dos Estudantes de Pernambuco.",
+            "Realizado na Unidade Acadêmica da UFRPE em Garanhuns, o congresso reuniu diretórios, centros acadêmicos, lideranças das ocupações pernambucanas e estudantes de instituições públicas, privadas, autárquicas e federais.",
+            "A programação avaliou o último período do movimento estudantil pernambucano, marcado por ocupações, greves estudantis e atos contra retrocessos no país.",
+            "O congresso homenageou a estudante Ranúsia Alves Rodrigues, militante assassinada no Rio de Janeiro em 1973, e contou com debates sobre autarquias, saúde mental, combate às opressões, cultura, mulheres, assistência estudantil, financiamento estudantil, meio ambiente e ensino privado.",
+            "Um dos momentos de destaque foi o ato em defesa da vida da juventude pernambucana, com homenagem à memória de Edivaldo Alves, morto após ser baleado pela Polícia Militar durante protesto por segurança em Itambé.",
+            "Ao final, foi eleita a diretoria da UEP para a gestão 2017/2019, com representantes de várias regiões do estado e Camila Falcão, estudante de História e coordenadora do DCE da UFRPE, como presidenta.",
+            "Matéria publicada originalmente no Jornal A Verdade."
+        ],
+        "autor": "Clóvis Maia",
+        "credito": "Fonte: Jornal A Verdade",
+        "origem": "https://averdade.org.br/2017/04/congresso-historico-da-uep/"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de janeiro de 2016",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2016/01/uep-contra-o-aumento-de-passagens.html"
+    },
+    {
+        "id":  "semana-unificada-dos-calouros-da-unicap-debate-midia-popular",
+        "titulo":  "Semana Unificada dos Calouros da UNICAP debate Mídia Popular",
+        "data":  "24 de agosto de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNM7jug1d9fF_-Dz74IW8h2PAtbNsUi3u5IotIX4oNfFDnzNUGOS4__j5YMbc1pBykcIyYK-uYjb19qPXCSOV8dXk3HcC4PomwOwX7_3-TPaK5GyMYiJlysLyE6svxh1J2Eu1FfuyPCQ/s640/IMG-20150820-WA0022.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNM7jug1d9fF_-Dz74IW8h2PAtbNsUi3u5IotIX4oNfFDnzNUGOS4__j5YMbc1pBykcIyYK-uYjb19qPXCSOV8dXk3HcC4PomwOwX7_3-TPaK5GyMYiJlysLyE6svxh1J2Eu1FfuyPCQ/s640/IMG-20150820-WA0022.jpg"
+                    ],
+        "resumo":  "Promovida pelo DCE-Unicap em conjunto com a União dos Estudantes de Pernambuco - UEP Cândido Pinto, a semana unificada dos calouros, traz a proposta de abrir uma discussão temática dentro de cada área. No dia 20/08, ocorreu a temática de \"Mídia Popular\", em parceria com os DAs de Fotografia e Jornalismo, um dos assuntos mais discutidos no campo da comunicação. Na ocasião, o debate que ocorreu no auditório do Bloco B, promoveu a troca de experiências e idéias, construção e fortalecimento de redes entre profissionais. A palestra teve a mesa formada por: - Filipe Mendes: Fotógrafo independente; -Carol Monteiro: Professora de Jornalismo e Fotografia da Unicap; - Renato Feitosa: Coordenador do curso de Jornalismo da Unicap; - Jailson Davi - coordenação estadual do jornal A Verdade.",
+        "corpo":  [
+                      "Promovida pelo DCE-Unicap em conjunto com a União dos Estudantes de Pernambuco - UEP Cândido Pinto, a semana unificada dos calouros, traz a proposta de abrir uma discussão temática dentro de cada área. No dia 20/08, ocorreu a temática de \"Mídia Popular\", em parceria com os DAs de Fotografia e Jornalismo, um dos assuntos mais discutidos no campo da comunicação. Na ocasião, o debate que ocorreu no auditório do Bloco B, promoveu a troca de experiências e idéias, construção e fortalecimento de redes entre profissionais. A palestra teve a mesa formada por: - Filipe Mendes: Fotógrafo independente; -Carol Monteiro: Professora de Jornalismo e Fotografia da Unicap; - Renato Feitosa: Coordenador do curso de Jornalismo da Unicap; - Jailson Davi - coordenação estadual do jornal A Verdade."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/08/semana-unificada-dos-calouros-da-unicap.html"
+    },
+    {
+        "id":  "estudantes-na-rua-pela-democracia",
+        "titulo":  "Estudantes na rua pela Democracia!",
+        "data":  "19 de agosto de 2015",
+        "editoria":  "Cândido Pinto",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-M1Py78EFmzOZIpcr5Zn7zWvAyN_2HGsm618vo_XdfOx24JAGby-keBz8KevcTxfcxADKz1kp48nxUJPYqXjIDNuUqMEt5mO5HXjo3t4sdy_GjX8rGTrNM1TLoehap6hgaGEKHMvedA/s640/DEMOCRACIA%252520UEP-page-001.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-M1Py78EFmzOZIpcr5Zn7zWvAyN_2HGsm618vo_XdfOx24JAGby-keBz8KevcTxfcxADKz1kp48nxUJPYqXjIDNuUqMEt5mO5HXjo3t4sdy_GjX8rGTrNM1TLoehap6hgaGEKHMvedA/s640/DEMOCRACIA%252520UEP-page-001.jpg"
+                    ],
+        "resumo":  "A União dos/as Estudantes de Pernambuco convoca toda população pernambucana para o ato em defesa da democracia a ser realizado nesta próxima quinta(20), a partir das 15h, na Praça do Derby, em Recife .",
+        "corpo":  [
+                      "A União dos/as Estudantes de Pernambuco convoca toda população pernambucana para o ato em defesa da democracia a ser realizado nesta próxima quinta(20), a partir das 15h, na Praça do Derby, em Recife .",
+                      "Oportunidade de dialogar com a sociedade no sentido de defender de forma intransigente a democracia no país e rechaçar qualquer movimento golpista que visa derrubar um governo democraticamente eleito pelo povo Brasileiro.",
+                      "Defenderemos também que o pré-sal continue sendo nosso para que os recursos sejam aplicados na educação e não no capital especulativo, como visam alguns parlamentares, ignorando uma das mais maiores conquistas do movimento estudantil neste país.",
+                      "Por Cândido pinto e tantos/as outros/as que pagaram com a vida a luta pela liberdade, convocamos você , estudante pernambucano/a, a participar deste grande ato democrático para defender a educação e, principalmente, defender o Brasil."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/08/estudantes-na-rua-pela-democracia.html"
+    },
+    {
+        "id":  "uep-candido-pinto-se-posiciona-sobre-lancamento-do-passe-livre-estudantil",
+        "titulo":  "UEP-Cândido Pinto se posiciona sobre lançamento do passe-livre estudantil",
+        "data":  "28 de julho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "União dos Estudantes de Pernambuco se posiciona sobre lançamento do passe-livre estudantil promovido pelo Governo de Pernambuco que ocorreu na segunda (27).",
+        "corpo":  [
+                      "União dos Estudantes de Pernambuco se posiciona sobre lançamento do passe-livre estudantil promovido pelo Governo de Pernambuco que ocorreu na segunda (27).",
+                      "Nós que compomos a entidade representativa dos/as Estudantes universitários/as de Pernambuco viemos por meio dessa nota fazer uma reflexão à respeito do projeto do \"Passe livre\" do governo do Estado.",
+                      "O Passe livre, pauta que os movimentos sociais vem levantando a anos, é o programa que garantirá que os e as estudantes pernambucanos/as consigam participar com plenitude da vida acadêmica, principalmente os de origem popular que não tem condiçôes de pagar a passagem carissima que tem no nosso Estado.",
+                      "Infelizmente, os movimentos sociais que lutam em defesa do passe-livre irrestrito sempre foram tratados a bala de borracha pelo governo de Pernambuco.",
+                      "A conferência de transporte, espaços onde a sociedade civil juntamente com o governo encaminham as políticas de transporte ainda näo ocorreu impossibilitando assim um amplo debate sobre o sistema de transporte no nosso Estado.",
+                      "O programa que visa distribuir passagens para os/as estudantes cadastrados da RMR na Rede Estadual de Ensino e os cotistas matriculados na Universidade de Pernambuco (UPE) é uma excelente iniciativa, no entanto, não reconhecemos esse programa enquanto passe livre estudantil por não contemplar todos/as estudantes do estado e desconsidera o Plano Estadual de Assistência Estudantil (PEAES) , programa elaborado pelo movimento estudantil que garante o direito a transporte de qualidade para todos os as estudantes do Estado",
+                      "A vida estudantil é composta por diversas dificuldades de acesso e permanência. A condição de se manter em uma universidade perpassa por fatores como alimentação, transporte, moradia, acesso à saúde, lazer, cultura, e tantos outros pontos, como debatido no PEAES, no ano passado na Assembleia Legislativa de Pernambuco (ALEPE), que em seu projeto garante que os estudantes pernambucanos/as tenham o direito de permanência garantido na escola ou universidade.",
+                      "Considerando ainda que esse projeto de \"passe livre\" oferecido com um sistema de transporte falho, de péssima qualidade e sem nenhuma segurança, colocando-nos, usuário e trabalhador/a em condições de risco, sendo eles por assaltos ou acidentes trágicos como de Camila Mirelle, estudante da UFPE, morta em maio deste ano, na BR-101, num ônibus Barro-Macaxeira, que estava completamente lotado, e que desde a tragédia não se teve posicionamento de solução proposto pelo Governo de Pernambuco.",
+                      "Nós queremos imediatamente a aprovação do Plano de assistência estudantil que garante passe-livre pra todos/as estudantes pernambucanos/as, queremos a realização da conferência estadual de transporte, a meia passagem intermunicipal, a reduçäo das tarifas e a auditoria nas contas das empresas de transporte.",
+                      "Não iremos admitir que o governo do Estado, que sempre reprimiu o movimento passe livre, agora de forma eleitoreira iluda os estudantes dizendo que esse projeto é o tão sonhado passe livre.",
+                      "Queremos que o Governo dos Estado interiorize suas políticas, execute os mecanismos de dialogo com a população e aprove imediatamente o passe livre irrestrito pra todo estudante do litoral ao sertão.",
+                      "- União dos Estudantes de Pernambuco"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/07/uep-candido-pinto-se-posiciona-sobre.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-2",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de julho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/07/por-uma-cidade-que-nos-de-o-direito-de.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-3",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de julho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/07/seminario-contra-reducao-da-maioridade.html"
+    },
+    {
+        "id":  "uep-participa-de-audiencia-contra-a-terceirizacao",
+        "titulo":  "UEP PARTICIPA DE AUDIÊNCIA CONTRA À TERCEIRIZAÇÃO!",
+        "data":  "4 de julho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DQFUli9rLz8iVuU18ylVTZ77YM9U5WgHM_jgkTKv3uDMmKBmxjtGVFWvQ_T54qUoCuDMSdIYX7WQanhjFRIP40hl7yRvnVjRZmPBX9wR_4iS4iCCai9GNyUpK13mxhpHgMapEIcMtT8/s400/IMG-20150703-WA0037.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DQFUli9rLz8iVuU18ylVTZ77YM9U5WgHM_jgkTKv3uDMmKBmxjtGVFWvQ_T54qUoCuDMSdIYX7WQanhjFRIP40hl7yRvnVjRZmPBX9wR_4iS4iCCai9GNyUpK13mxhpHgMapEIcMtT8/s400/IMG-20150703-WA0037.jpg"
+                    ],
+        "resumo":  "Participamos nesta sexta(03), da Audiência Pública contra a PL4330, com a presença do Senador da República, Paulo Paim (PT-RS). O evento que vem pecorrendo o país, com a iniciativa do senador, parou na capital pernambucana para propor o debate da classe trabalhadora e aprovar um documento dos trabalhadores do estado contra o projeto de lei 4330/04.",
+        "corpo":  [
+                      "Participamos nesta sexta(03), da Audiência Pública contra a PL4330, com a presença do Senador da República, Paulo Paim (PT-RS). O evento que vem pecorrendo o país, com a iniciativa do senador, parou na capital pernambucana para propor o debate da classe trabalhadora e aprovar um documento dos trabalhadores do estado contra o projeto de lei 4330/04.",
+                      "A PL4330/2004 permite a terceirização de qualquer atividade dentro de uma empresa, é um projeto com justificativa sendo a redução de custos, melhoria da competitividade, acesso à tecnologia e mão de obra especializada. No entanto, as estatísticas mostram que, apesar de representarem um terço da força de trabalho, os terceirizados são os que mais sofrem acidentes em serviço. Nós, da UEP-Cândido Pinto, nos opomos ao projeto de lei por estarmos em defesa das causas dos trabalhadores, considerando, que os atuais e futuros estudantes que estão nas universidades são/serão os trabalhadores que teriam péssimas condições de trabalho, risco de vida, desvalorização das classes e, por fim, perca de direitos garantidos na CLT, como férias, folgas, mais de 8 horas por dia de trabalho, desvalorização do salário mínimo e todas as conquistas celetistas. Não admitiremos o retrocesso e desvalorização do trabalhador e trabalhadora. Acreditamos que o movimento estudantil está na luta diária por estes jovens estudantes que conseguiram com avanço das políticas educacionais entrar na universidade e que são/serão futuramente os trabalhadores que tanto se esforçam/esforçaram para está naquele patamar e contribuir com o crescimento do Estado e sendo valorizado para isso. Por isso, dizemos NÃO À TERCEIRIZAÇÃO!",
+                      "‪#‎NãoÀPL4330‬ ‪#‎NãoÀTerceirização‬ ‪#‎PL4330‬‪#‎TrabalhadorValorizado‬ ‪#‎PauloPaim‬"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/07/uep-participa-de-audiencia-contra.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-4",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/campanha-virtual-no-ar-contra-reducao.html"
+    },
+    {
+        "id":  "uep-candido-pinto-se-faz-presente-contra-pme-conservador",
+        "titulo":  "UEP-Cândido Pinto se faz presente contra PME conservador",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Hoje (22) será votado, na Câmara Municipal do Recife (CMR), o Plano Municipal de Educação (PME).",
+        "corpo":  [
+                      "Hoje (22) será votado, na Câmara Municipal do Recife (CMR), o Plano Municipal de Educação (PME).",
+                      "No período de 27 à 29 aconteceu em Recife a 10ª Conferência Municipal de Educação (COMUDE), onde conseguiu atingir um grande público e participação para a construção do PME-Recife. No entanto, no último dia da conferência, a Prefeitura da Cidade do Recife (PCR), negou o plano que vinha sendo construído pelos estudantes, movimento estudantil, professores e sindicatos, para apresentar um formulado, apenas, pela Secretaria de Educação do Recife. Plano este que proíbe a formação de estudantes e professores sobre as questões de diversidade de gênero e raça, e orientação sexual, e que conduzirá as políticas educacionais para os próximos 10 anos.",
+                      "Após o evento, o PME foi para votação na CMR, sendo orquestrada pela bancada fundamentalista e conservadora para que aprove o plano que oprime e violenta os cidadãos recifenses em sua essência.",
+                      "Considerando que estas movimentações vem ocorrendo em todo o país e em diversos municípios pernambucano, como exemplo Garanhuns, Caruaru, e tantos outros no estado; e também aprovada na Assembleia Legislativa de Pernambuco (ALEPE) para o Plano Estadual de Educação.",
+                      "Diante do ocorrido, a União dos Estudantes de Pernambuco Cândido Pinto torna público seu posicionamento, repudiando os parlamentares do estado que tem seguido esse alinhamento político preconceituoso e conservador.",
+                      "Queremos deixar claro que não iremos admitir a exclusão das questões de gênero, sexualidade, raça/etnia; e nos colocaremos na luta por políticas educacionais que não nos exclua e nem nos oprima.",
+                      "A formação da juventude tem que ser pautada para uma sociedade que saiba respeitar o próximo, seja por orientação sexual, raça/etnia, poder socioeconômico, sem intolerância, preconceito e discurso de ódio.",
+                      "Nos faremos presente na sessão desta terça (20) para afirmarmos que não aceitaremos nenhum retrocesso na educação e sociedade pernambucana."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/uep-candido-pinto-se-faz-presente.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-5",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/diretoria-nova.html"
+    },
+    {
+        "id":  "nota-de-esclarecimento-da-uniao-dos-estudantes-de-pernambuco-candido-pinto-ao-deputado-est",
+        "titulo":  "NOTA DE ESCLARECIMENTO DA UNIÃO DOS ESTUDANTES DE PERNAMBUCO - CÂNDIDO PINTO AO DEPUTADO ESTADUAL SÍLVIO COSTA FILHO (PTB)",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Excelentíssimo Deputado,",
+        "corpo":  [
+                      "Excelentíssimo Deputado,",
+                      "A União dos Estudantes de Pernambuco - Cândido Pinto , entidade máxima de representação dos estudantes de Pernambuco, já realizou seu 40º Congresso no mês de maio, na Universidade Federal de Pernambuco. O encontro reuniu centenas de jovens do litoral ao sertão pernambucano para eleger a nova diretoria e apontar as lutas da juventude pro próximo período da gestão 2015/2017.",
+                      "Recentemente ficamos surpresos com o pronunciamento do referido Deputado Estadual em tribuna na Assembleia Legislativa do Estado de Pernambuco sobre um suposto congresso da referida entidade. Na verdade, acreditamos se tratar de um equívoco, pois há um agrupamento político liderado pela União da Juventude Socialista (Juventude do PCdoB), de sustentação da base do governo Paulo Câmara, que tenta forçadamente legitimar uma entidade fraudulenta da qual também chama da UEP.",
+                      "Sobre o passe livre, o Governo em diálogo com o mesmo grupo político liderado pela UJS/PCdoB aprovou uma proposta panfletária que não atende a demanda dos e das estudantes do Estado de Pernambuco. A proposta dos movimentos sociais e da UEP -Cândido Pinto é de passe livre irrestrito pra todos os/as estudantes e desempregados/as, além de ser amplamente discutido com a sociedade civil em todas as suas etapas, da formulação à implementação.",
+                      "É notório o descaso com o transporte público no Estado de Pernambuco. Passagem cara, péssimas condições de uso e agora, acidentes fatais com os estudantes universitários. Estudantes mortos em decorrência da falta de políticas públicas efetivas para a mobilidade urbana e para o transporte público.",
+                      "Por fim, registramos que a União dos Estudantes de Pernambuco - Cândido Pinto é legitimamente coordenada por outros agrupamentos políticos sob a direção dos/as estudantes Marcos Vinícius e Dyanne Barros. Não aceitaremos que o Governo do Estado, com sua tática de cooptar os movimentos sociais, use o nome da gloriosa União dos Estudantes de Pernambuco para fins escusos, principalmente no que tange à luta por um transporte de qualidade e em defesa do passe livre irrestrito conforme demanda os movimentos sociais."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/nota-de-esclarecimento-da-uniao-dos_21.html"
+    },
+    {
+        "id":  "audiencia-sobre-cep-lembra-importancia-do-peaes-para-estudantes",
+        "titulo":  "Audiência sobre CEP lembra importância do PEAES para estudantes",
+        "data":  "20 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzEiyJUqxIIXmsgM0130GQ0R5iU8S7OMj2M30wmn4QjV2MAluq3rM8HgkMVBopD79BZNKQiPAlPTqK_o8kjupRlVsRS8jOXDEjfXe_0XR5NZNv7BUUrKw8SFZUibWjqpO8r03i0zZWAI/s400/43082a.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzEiyJUqxIIXmsgM0130GQ0R5iU8S7OMj2M30wmn4QjV2MAluq3rM8HgkMVBopD79BZNKQiPAlPTqK_o8kjupRlVsRS8jOXDEjfXe_0XR5NZNv7BUUrKw8SFZUibWjqpO8r03i0zZWAI/s400/43082a.jpg"
+                    ],
+        "resumo":  "UEP-Cândido Pinto em primeira atividade pós-congresso participou da audiência pública que tratou a situação da Casa do Estudante de Pernambuco (CEP) na Assembleia Legislativa de Pernambuco (ALEPE), no dia 20 de maio.",
+        "corpo":  [
+                      "UEP-Cândido Pinto em primeira atividade pós-congresso participou da audiência pública que tratou a situação da Casa do Estudante de Pernambuco (CEP) na Assembleia Legislativa de Pernambuco (ALEPE), no dia 20 de maio.",
+                      "A CEP, entidade responsável pela assistência ao estudante oriundo do interior do estado, em 2015 completou 84 anos de história e resistência com os estudantes pernambucanos que passaram por lá.",
+                      "Apesar do tempo e das grandes lutas travadas, a casa ainda passa por processos burocráticos de acesso. Contando apenas com 300 vagas totais (mistas) para abrigo dos estudantes que precisam e sobrevivem apenas das fontes de recursos enviados pela Secretaria de Educação de Pernambuco, em subvenção anual. Onde, só este ano começou a discussão sobre a casa feminina, em que esta oferecerá 66 vagas.",
+                      "Em maio deste ano, a entidade pôde contar com a lei 15.496, aprovada na ALEPE e sancionada pelo Governador Paulo Câmara, onde garante a subvenção social para a CEP neste ano.",
+                      "Pernambuco chega a ter mais de 2 milhões estudantes matriculados, entre ensino fundamental, médio, EJA, especial, graduação, mestrado e doutorado. Compreendemos as políticas de permanência oferecidas na casa, no entanto, a quantidade de políticas oferecidas para estudantes de todo o estado não chega a 1%, considerando ainda que a quantidade de estudantes do interior na capital e região metropolitana passa dos 20%. Num geral, o estado carece das políticas de assistência estudantil.",
+                      "Em 2013, na mesma casa em que foi debatida a lei que garante a subvenção social para o CEP, promoveu audiências presididas pela Deputada Teresa Leitão (PT) e com relatoria do Deputado Rodrigo Novaes (PSD) para discussão do Plano Estadual de Assistência Estudantil (PEAES). O plano procura garantir o direito estudantil de moradia, assistência pedagógica, psicológica, social, saúde, alimentação, transporte, lazer e cultura. Entretanto, apesar de ter sido discutido há mais de um ano, o plano aguarda ser sancionado pelo Governador Paulo Câmara.",
+                      "Em fala, a Coordenadora Geral da UEP-Cândido Pinto, Dyanne Barros, ressaltou a importância de discutir o PEAES por inteiro, e afirmou aos presentes, \"acho um absurdo a casa com 84 anos fazendo só agora a discussão da casa feminina, ainda mais oferecendo apenas 66 vagas. É uma vergonha. Considerando ainda que nós, mulheres, somos 52% dos matriculados no ensino superior no estado\".",
+                      "A representante da UNE, Flávia Hellen, colocou seu posicionamento cobrando o plano do estado e disse achar que o problema ia além da Casa do Estudante de Pernambuco, mas que toda a política de assistência precisa ser tratada com importância, em conjunto, e por isso lembrava a importância do governador sancioná-lo.",
+                      "Estiveram presentes também cobrando os avanços das políticas de assistência estudantil e permanência a Presidente do DCE-UPE, Thaynara Queiroz, e o Presidente do CEP, Mario Rocha."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/audiencia-sobre-cep-lembra-importancia.html"
+    },
+    {
+        "id":  "nova-diretoria-tomara-posse-nesta-sexta",
+        "titulo":  "Nova diretoria tomará posse nesta sexta",
+        "data":  "18 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51B98cXqUtkT_GKB2xhvzV9Z8tctudmLO-YskeIeHycBLm_1pMeQvu4YcpeZol_sU-RweQtvHYpLkHR1SRhgr7YHvJAqO_Sl6NlfO6jQ5-GAOtkVJj05QjdzKKThAQZFSK7sOWwx7tds/s400/Convite+posse+uep.png",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51B98cXqUtkT_GKB2xhvzV9Z8tctudmLO-YskeIeHycBLm_1pMeQvu4YcpeZol_sU-RweQtvHYpLkHR1SRhgr7YHvJAqO_Sl6NlfO6jQ5-GAOtkVJj05QjdzKKThAQZFSK7sOWwx7tds/s400/Convite+posse+uep.png"
+                    ],
+        "resumo":  "Na próxima sexta (19) será realizada a solenidade de posse da nova diretoria da União dos Estudantes de Pernambuco, no anfiteatro da Faculdade de Direito do Recife, com início às 18 horas.",
+        "corpo":  [
+                      "Na próxima sexta (19) será realizada a solenidade de posse da nova diretoria da União dos Estudantes de Pernambuco, no anfiteatro da Faculdade de Direito do Recife, com início às 18 horas.",
+                      "O congresso que elegeu os novos diretores foi marcado por ser o 40º na história e pelos 10 anos de refundação da entidade, sendo estatutário; modificando a opção de modelo de gestão Presidencial para Coordenação Geral. Onde elegeu Dyanne Barros, estudante de Ciências Econômicas da UNICAP, e Marcus Vinícius, estudante de História da mesma instituição como Coordenadores Gerais, no período de 2015-2017 com a gestão \"Democrática e Pela Base\".",
+                      "O evento que ocorreu no período de 15 à 17 de maio, na UFPE, teve como tema \"Estudantes em defesa da Assistência Estudantil, democracia e mais acesso\", e lançou a campanha \"UEP Contra a Redução da Maioridade Penal\"."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/nova-diretoria-tomara-posse-nesta-sexta.html"
+    },
+    {
+        "id":  "uep-candido-pinto-deseja-bons-votos-a-nova-diretoria-da-une",
+        "titulo":  "UEP-Cândido Pinto deseja bons votos a nova diretoria da UNE",
+        "data":  "10 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1zFveox5jTpCOQGlocKFi1c7_HUSZbnRNBLqCH9g4sajT6LvdwU64SEex57XaJs_g9-TIgHtuoLFRBxNbuJef2Nyg1CA5t45N6vNLs85_CS4zgWXLwsNAhr3WTxt7Oa11hT97oUIVEY0/s400/11257863_1051255921568532_8635673236282747901_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1zFveox5jTpCOQGlocKFi1c7_HUSZbnRNBLqCH9g4sajT6LvdwU64SEex57XaJs_g9-TIgHtuoLFRBxNbuJef2Nyg1CA5t45N6vNLs85_CS4zgWXLwsNAhr3WTxt7Oa11hT97oUIVEY0/s400/11257863_1051255921568532_8635673236282747901_n.jpg"
+                    ],
+        "resumo":  "De 03 à 07 de junho, em Goiânia-GO, foi eleita a nova diretoria da União Nacional dos Estudantes(UNE), que foi marcado pelo seu 54° congresso.",
+        "corpo":  [
+                      "De 03 à 07 de junho, em Goiânia-GO, foi eleita a nova diretoria da União Nacional dos Estudantes(UNE), que foi marcado pelo seu 54° congresso.",
+                      "O evento que reuniu mais de 10 mil estudantes de todo o país, reafirmou as políticas estudantis, que avançaram o país nos últimos anos e que não podem retroceder, garantindo mais assistências, mais acesso e democracia nas universidades.",
+                      "Com debates acalorados e grandes expectativas dos estudantes, a UNE unificou todas as bancadas e movimentos gritando em plenária final, no sábado (06), não à redução. Compreendendo que a juventude necessita de atenção básica e que reduzir a maioridade penal não resolverá o problema, os presentes entoaram o coro, mostrando que não aceitarão retrocesso em seus direitos e que lutarão por uma educação menos conservadora e que nos dê o direito de viver.",
+                      "No domingo (07), Carina Vitral foi eleita a nova Presidenta da entidade, que irá representá-la no biênio 2015-2017.",
+                      "Pela primeira vez, a UNE tem uma mulher presidenta sucessora de outra, mostrando a política estudantil e de juventude que as mulheres são emponderadas diariamente para ocupar os espaços que lhe são de direito e de referência.",
+                      "Nós, da União dos Estudantes de Pernambuco - Cândido Pinto, Gestão \"Democrática e Pela Base\", desejamos aos novos diretores da UNE uma gestão de muita luta e sucesso, e nos colocamos a disposição para fazermos, juntos, um movimento estudantil que represente todxs xs estudantes pernambucanos e brasileiros."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/uep-candido-pinto-deseja-bons-votos.html"
+    },
+    {
+        "id":  "uep-presente-no-54-conune",
+        "titulo":  "UEP presente no 54° CONUNE",
+        "data":  "3 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoa-7yvCZ680NsIIE3KHKz3zQdS1fzMtDVYQtbovJq5nrxDx71SyS4nC_-BvWhuMZje1oPI5RZ-a9a36uobzCr8vVSnzbF20xOB5zvJL16WQmYRS6Ye5YeA7z-98HU_k9Bp5Z_Z2TFVYE/s640/conune.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoa-7yvCZ680NsIIE3KHKz3zQdS1fzMtDVYQtbovJq5nrxDx71SyS4nC_-BvWhuMZje1oPI5RZ-a9a36uobzCr8vVSnzbF20xOB5zvJL16WQmYRS6Ye5YeA7z-98HU_k9Bp5Z_Z2TFVYE/s640/conune.jpg"
+                    ],
+        "resumo":  "Tem início hoje (03), o 54º Congresso da União Nacional dos Estudantes (CONUNE), que ocorrerá na Universidade Federal de Goiás (UFG) e na Pontifícia Universidade Federal de Goiás (PUC-GO), e vai até o domingo (07).",
+        "corpo":  [
+                      "Tem início hoje (03), o 54º Congresso da União Nacional dos Estudantes (CONUNE), que ocorrerá na Universidade Federal de Goiás (UFG) e na Pontifícia Universidade Federal de Goiás (PUC-GO), e vai até o domingo (07).",
+                      "O CONUNE ocorre a cada 2 anos com a finalidade de eleger uma diretoria e definir resoluções para a nova gestão (2015-2017).",
+                      "Com a expectativa de reunir 10 mil estudantes, o tema principal do evento será \"Em Defesa da Democracia, dos Estudantes e do Brasil\". O tema reafirma as bandeiras que vem sendo levantadas nos últimos meses, defendendo a democracia e se posicionando contra os cortes do governo na educação. O congresso também terá atividades, acontecendo em paralelo, como o Encontro Nacional de Estudantes Cotistas, Bolsistas Prouni e FIES, além de atividades culturais.",
+                      "A UEP-Cândido Pinto marca sua presença no espaço fortalecendo as pautas dos estudantes de todo o Brasil e norteando as políticas em conjunto com a UNE para a defesa de todos os docentes do estado.",
+                      "Confira a programação."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/uep-presente-no-54-conune.html"
+    },
+    {
+        "id":  "uniao-dos-estudantes-de-pernambuco-na-marcha-das-vadias-recife-2015",
+        "titulo":  "UNIÃO DOS ESTUDANTES DE PERNAMBUCO NA MARCHA DAS VADIAS - RECIFE 2015",
+        "data":  "29 de maio de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWn2sYInDq52mZQ4tZBWj52rJSTRisRxu7HSHxCdz2u5p02q6-2pnkDDZ7l7sV0nVyql0BZ6qWbcHQcjISsUmuGb7BywuamdEl0IwIszFYI5tR1lxmXjNAm7uvVR4Uv8KMUP3acutUnfI/s640/marcha.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWn2sYInDq52mZQ4tZBWj52rJSTRisRxu7HSHxCdz2u5p02q6-2pnkDDZ7l7sV0nVyql0BZ6qWbcHQcjISsUmuGb7BywuamdEl0IwIszFYI5tR1lxmXjNAm7uvVR4Uv8KMUP3acutUnfI/s640/marcha.jpg"
+                    ],
+        "resumo":  "No próximo sábado (30), em mais um ano iremos as ruas contra o sistema que nos julga vadia todos os dias. Pelo direito de termos o corpo livre e decidirmos por ele.",
+        "corpo":  [
+                      "No próximo sábado (30), em mais um ano iremos as ruas contra o sistema que nos julga vadia todos os dias. Pelo direito de termos o corpo livre e decidirmos por ele.",
+                      "Marchamos pelo direito a igualdade de gênero e respeito por nossas decisões. Vamos as ruas dizendo NÃO a violência contra todas as mulheres, sejam elas negras, trans, de periferia, ou qualquer outra característica, e nesse mesmo espaço reivindicaremos nossos direitos por inteiro, que não nos objetifique pela mídia e sociedade.",
+                      "Vamos juntas gritar contra essa sociedade opressora que diariamente nos julga por nossas vestimentas, atitudes e pelo simples fato de sermos mulheres!",
+                      "Queremos sair com o shortinho no ônibus, no bar, na universidade, ou qualquer outro lugar, sem que sejamos apontadas por isso!",
+                      "É nesse momento que convidamos todos xs estudantes para estarmos juntos, lutando por uma sociedade livre de preconceitos e mais justa!",
+                      "Somos todas vadias!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/05/uniao-dos-estudantes-de-pernambuco-na.html"
+    },
+    {
+        "id":  "eleita-nova-direcao-da-uep",
+        "titulo":  "Eleita nova direção da UEP",
+        "data":  "18 de maio de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKLYJ0g3lm-pXJJ8766TNSqNkbSidQjQiF0uHpnm9tXmoqEu7Wz2hBe2wTtQF7Pl6gZ-vv5Uaf20QLzEVxIj1Vrb49om55UNHhO79ZUMvxHIQyLe9dKSJTPHVUirqRUOMnyawAZhC8ig/s400/19393_702088616568021_8397799018310916816_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKLYJ0g3lm-pXJJ8766TNSqNkbSidQjQiF0uHpnm9tXmoqEu7Wz2hBe2wTtQF7Pl6gZ-vv5Uaf20QLzEVxIj1Vrb49om55UNHhO79ZUMvxHIQyLe9dKSJTPHVUirqRUOMnyawAZhC8ig/s400/19393_702088616568021_8397799018310916816_n.jpg",
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL_83_HcsNP6sCKUTDW6OudVjhFPn06JiYYhppC2pM17DuR-kov4Jo47SCMMoGifazLO9saVvhSC-qqM9IIepIsXiDyjMZzDWM9pJDZ4f9hojU2Go5ONlMduXhmBQvxsOr2ztv_wicn3c/s400/13500_702091826567700_6791930476007008405_n.jpg"
+                    ],
+        "resumo":  "Na noite do último domingo (17) foi eleita a nova gestão da União dos Estudantes de Pernambuco.",
+        "corpo":  [
+                      "Na noite do último domingo (17) foi eleita a nova gestão da União dos Estudantes de Pernambuco.",
+                      "A UEP-Cândido Pinto realizou seu 40° Congresso na Universidade Federal de Pernambuco (UFPE), campus Recife, com o tema central \"Estudantes em defesa da Assistência Estudantil, Democracia e mais acesso\".",
+                      "O evento que teve início no dia 15 deste mês, propôs as mais diversas discussões políticas para os estudantes de todo o estado. Pautas como machismo, racismo, homofobia, assistência estudantil, contra o corte de verbas na UPE e em solidariedade aos familiares e amigos de Camila Mirelle, estudante morta pelo Estado perante o descaso no transporte público e contra a Redução da Maioridade Penal, lançaram moções de repúdio criticando a postura da sociedade, que foram também aprovadas por unanimidade no congresso.",
+                      "O espaço pôde fazer o lançamento oficial da Campanha da UEP Contra a Redução da Maioridade Penal, \"UEP contra a redução, por mais escolas e menos prisões\", onde teve o Professor Manoel Moraes para a defesa da pauta.",
+                      "O congresso que comemorava os 10 anos de sua refundação, homenageou Cândido Pinto, patrono da UEP, e Demócrito de Souza Filho, 1° Secretário perpétuo, foi também estatuário sendo prevista a mudança para duas coordenações gerais, propondo mais horizontalidade e paridade para o grupo, sendo ocupadas pela estudante de Ciências Econômicas da UNICAP, Dyanne Barros, e o estudante de História da UNICAP, Marcus Vinicius. A chapa eleita para a gestão 2015-2017 leva o nome de \"UEP democrática e pela base\"."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/05/eleita-nova-direcao-da-uep.html"
+    },
+    {
+        "id":  "40-conuep-sera-realizado-nesse-fim-de-semana",
+        "titulo":  "40° ConUEP será realizado nesse fim de semana",
+        "data":  "15 de maio de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7QRJOydsGvNUFt9v41YQI-x3qV_QdqsAPHxtD8lNtrzQZS9bEBvhnhl1arHWZpf1uxf_iT3gfc-ynF0KdSwEUvN8MJucuMoIU3FqGD_L5fYNnnGjGl2d6nagLqYKPqsk6RjGUda4fA-I/s640/programa%25C3%25A7%25C3%25A3o.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7QRJOydsGvNUFt9v41YQI-x3qV_QdqsAPHxtD8lNtrzQZS9bEBvhnhl1arHWZpf1uxf_iT3gfc-ynF0KdSwEUvN8MJucuMoIU3FqGD_L5fYNnnGjGl2d6nagLqYKPqsk6RjGUda4fA-I/s640/programa%25C3%25A7%25C3%25A3o.jpg"
+                    ],
+        "resumo":  "O congresso, que comemora 10 anos da refundação da UEP, onde homenageou Cândido Pinto e o colocou como patrono da entidade, vai eleger a nova diretoria e alinhar a política para o próximo período. O evento que reunirá estudantes de todo o estado para debater democracia, assistência estudantil e mais acesso nas universidades.",
+        "corpo":  [
+                      "O congresso, que comemora 10 anos da refundação da UEP, onde homenageou Cândido Pinto e o colocou como patrono da entidade, vai eleger a nova diretoria e alinhar a política para o próximo período. O evento que reunirá estudantes de todo o estado para debater democracia, assistência estudantil e mais acesso nas universidades.",
+                      "A plenária de abertura acontece hoje no Auditório Evaldo Coutinho, no CAC, às 17h, e trará o tema \"O Papel do Movimento Estudantil na Resistência à Ditadura e na Luta pela Democracia\", além de prestar homenagem a Demócrito de Souza Filho, 1° Secretário cativo da entidade, e Cândido Pinto, patrono da UEP, que lutaram firmemente na defesa da democracia nos anos de chumbo.",
+                      "O evento conta com o apoio da Universidade Federal de Pernambuco (UFPE), União Nacional dos Estudantes (UNE) e da União dos Estudantes Secundaristas de Pernambuco (UESPE).",
+                      "Segue abaixo nossa programação:",
+                      "Mais informações:",
+                      "40° Congresso UEP",
+                      "contato.uep@gmail.com",
+                      "Dyanne Barros: (81) 9756-2782",
+                      "Jessé Samá: (81) 9658-8098"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/05/40-conuep-sera-realizado-nesse-fim-de.html"
+    },
+    {
+        "id":  "a-uep-e-mais-anisio-e-flor-na-ufpe",
+        "titulo":  "A UEP é mais Anísio e Flor na UFPE!",
+        "data":  "26 de abril de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdowW0Uqzex_tfIHiHmy-WpOfXthaeippacfPQzvtDkpyK4k-7AQnrtPWWuPid-Yy7vqkGRv-tALOUZGkO8x1tBR1AzvtsEOeskm8FzRx9pRwu2xcFct9pdJfiv9ZojZtqJggsrBc_wjY/s1600/carta+reitor.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdowW0Uqzex_tfIHiHmy-WpOfXthaeippacfPQzvtDkpyK4k-7AQnrtPWWuPid-Yy7vqkGRv-tALOUZGkO8x1tBR1AzvtsEOeskm8FzRx9pRwu2xcFct9pdJfiv9ZojZtqJggsrBc_wjY/s1600/carta+reitor.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/04/a-uep-e-mais-anisio-e-flor-na-ufpe.html"
+    },
+    {
+        "id":  "uep-convoca-estudantes-para-o-42-ceeg-em-recife",
+        "titulo":  "UEP convoca estudantes para o 42° CEEG em Recife",
+        "data":  "3 de abril de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Marcado para o dia 14 de março de 2015, na Universidade Federal de Pernambuco, campus Recife, o encontro é um dos principais fóruns de discussão e deliberação do movimento estudantil.",
+        "corpo":  [
+                      "Marcado para o dia 14 de março de 2015, na Universidade Federal de Pernambuco, campus Recife, o encontro é um dos principais fóruns de discussão e deliberação do movimento estudantil.",
+                      "Esta edição tem como tema \"Reforma Política e Assistência Estudantil\".",
+                      "Reunindo representantes de todo o estado, se farão presentes os Diretórios Centrais de Estudantes, Uniões Municipais dos Estudantes e organizações que representem mais de um curso nas instituições. Além da discussão central o evento convocará o próximo congresso da entidade."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/04/uep-convoca-estudantes-para-o-42-ceeg.html"
+    },
+    {
+        "id":  "carteira-uep-2015-na-rua",
+        "titulo":  "CARTEIRA UEP 2015 NA RUA!",
+        "data":  "27 de março de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzVyzmBSv4g1Nx23p0mK4_dRPtTxl5HZ12TEeu7bRfNiaDeoAl352HcsDLCBHgiehWbfw4Ydi2EcXaXJZQsg8aDIEtkyysqoP6fT6jT0_i-QfAZMTAt2TI4Qc_KJiSy0FqPjQ0LRp0DSg/s640/carteira+uep+2015.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzVyzmBSv4g1Nx23p0mK4_dRPtTxl5HZ12TEeu7bRfNiaDeoAl352HcsDLCBHgiehWbfw4Ydi2EcXaXJZQsg8aDIEtkyysqoP6fT6jT0_i-QfAZMTAt2TI4Qc_KJiSy0FqPjQ0LRp0DSg/s640/carteira+uep+2015.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/03/carteira-uep-2015-na-rua.html"
+    },
+    {
+        "id":  "pela-reforma-politica-e-assistencia-estudantil-a-uep-realiza-seu-42-ceeg",
+        "titulo":  "Pela Reforma Política e Assistência Estudantil a UEP realiza seu 42° CEEG",
+        "data":  "15 de março de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbcuvE_ZSbZVF7ofC-AeiA9SiDg4Yqoz2h3TYFQ2hdnjJuXgsEXqc6noMtG5hzUnlWPqX3g4R9rh76tEPyARl97dVlX9yM4Zi2agQqZKxVQf8KbzZsaIANPhF4ZtssF5UDcg3ukIwUiY/s640/ceeg.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbcuvE_ZSbZVF7ofC-AeiA9SiDg4Yqoz2h3TYFQ2hdnjJuXgsEXqc6noMtG5hzUnlWPqX3g4R9rh76tEPyARl97dVlX9yM4Zi2agQqZKxVQf8KbzZsaIANPhF4ZtssF5UDcg3ukIwUiY/s640/ceeg.jpg"
+                    ],
+        "resumo":  "Neste sábado (14), na UFPE, lideranças estudantis se reuniram para participar do 42° Conselho Estadual de Entidades Gerais (CEEG).",
+        "corpo":  [
+                      "Neste sábado (14), na UFPE, lideranças estudantis se reuniram para participar do 42° Conselho Estadual de Entidades Gerais (CEEG).",
+                      "O espaço que teve tema \"Reforma Política e Assistência Estudantil\" contou com a presença de representantes de todo o estado pernambucano. Estiveram presentes no espaço para os debates o Vereador da Cidade do Recife, Jurandir Liberal, o Reitor da Universidade Federal de Pernambuco, Anísio Brasileiro, a Pró-Reitora de Assuntos Acadêmicos, Ana Cabral, a Unidade Popular pelo Socialismo, Adelson Borba, o Diretor da UNE, Marcus Vinícius, e, a Juventude do Partido dos Trabalhadores, Patrick Campos. Com grandes defesas dos temas os palestrantes consensualizaram na defesa da democracia e nos avanços para a educação.",
+                      "Na plenária final, os delegados se reuniram para a convocação do 40° Congresso da União dos Estudantes de Pernambuco. O congresso que terá como tema central \"Estudantes em defesa da Assistência Estudantil, Democracia e mais acesso\", está marcado para acontecer no período de 15 à 17 de maio de 2015, na cidade de Recife. Para acesso ao regimento, inscrição e mais informações, entre no site: http://40congressouep.blogspot.com.br/"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/03/pela-reforma-politica-e-assistencia.html"
+    },
+    {
+        "id":  "defender-os-direitos-e-defender-o-brasil",
+        "titulo":  "DEFENDER OS DIREITOS É DEFENDER O BRASIL",
+        "data":  "12 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqd1vZzL1Z3Hmf9Pm3wU97GpYjAHyTk_IDQEialmXkThJOyk80AmnI1eTaDxIV7Jj8kSo01LlxPZyV9hDoyDrg7hP7Cik_VCcYmKbISt8FhZFauKH2zKB7SVhCNr449RWVRUIp9lw4DE/s400/PETROBRAS+UEP.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqd1vZzL1Z3Hmf9Pm3wU97GpYjAHyTk_IDQEialmXkThJOyk80AmnI1eTaDxIV7Jj8kSo01LlxPZyV9hDoyDrg7hP7Cik_VCcYmKbISt8FhZFauKH2zKB7SVhCNr449RWVRUIp9lw4DE/s400/PETROBRAS+UEP.jpg"
+                    ],
+        "resumo":  "A União dos Estudantes de Pernambuco, mantendo seu compromisso com a defesa radical da democracia, e da reforma política, constituinte necessária para empoderar o povo, e achar com a influência do capital nas eleições, com os estudantes que já compõem, ou que irão compor a classe trabalhadora, e com garantia da soberania nacional.",
+        "corpo":  [
+                      "A União dos Estudantes de Pernambuco, mantendo seu compromisso com a defesa radical da democracia, e da reforma política, constituinte necessária para empoderar o povo, e achar com a influência do capital nas eleições, com os estudantes que já compõem, ou que irão compor a classe trabalhadora, e com garantia da soberania nacional.",
+                      "Convoca a todos os estudantes para somar-se a luta em defesa da permanência do mandato da então presidenta da república Dilma Rousseff, que a mesma repense sua postura e compromisso com os trabalhadores, devolvendo a eles os direitos previdenciários e trabalhistas, e sobre os cortes no orçamento destinado para educação, imediatamente. E defender a maior empresa estatal e símbolo da autonomia do país, das mãos das multinacionais e tubarões do petróleo mundial."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/defender-os-direitos-e-defender-o-brasil.html"
+    },
+    {
+        "id":  "vai-ter-mulher-trans-e-negra-na-universidade-sim",
+        "titulo":  "Vai ter mulher trans e negra na universidade SIM!",
+        "data":  "4 de fevereiro de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Mulher transexual, negra e de infância pobre, Maria Clara Araújo causou comoção ao ser aprovada",
+        "corpo":  [
+                      "Mulher transexual, negra e de infância pobre, Maria Clara Araújo causou comoção ao ser aprovada",
+                      "Aos 18 anos, Maria Clara Araújo já se tornou um símbolo da luta pelos direitos das transexuais. Aprovada pelo Sisu para cursar Pedagogia na Universidade Federal de Pernambuco, a jovem de Recife comemora o fato de ser mais uma transexual matriculada em uma universidade pública. Passada a euforia, no entanto, um percalço na hora da matrícula: mesmo tendo encaminhado os papéis para adequar seus documentos com seu nome social, precisou fazer a matrícula com o seu nome civil, aquele que recebeu ao nascer e que não corresponde ao seu gênero.",
+                      "Em entrevista a CartaCapital, Maria Clara conta que a boa notícia é que a universidade se mostrou sensível ao seu apelo e deve permitir o uso de seu nome social. O caso ganhou forte repercussão nas redes sociais nos últimos dias.",
+                      "Veja mais em: Maria Araújo, a mulher trans que passou na UFPE",
+                      "Parabéns, Maria Clara!",
+                      "Você é referência para demais jovens que lutam diariamente por uma sociedade mais justa e igualitária!",
+                      "Vai ter mulher trans sim, na universidade!",
+                      "A UEP-Cândido Pinto te deseja todas as lutas e vitórias para hoje e sempre."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/02/vai-ter-mulher-trans-e-negra-na.html"
+    },
+    {
+        "id":  "uep-presente-no-encontro-de-politica-e-cultura-da-une",
+        "titulo":  "UEP PRESENTE NO ENCONTRO DE POLÍTICA E CULTURA DA UNE",
+        "data":  "3 de fevereiro de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-V3n8zTdns254HU4HooO63lGAdoAe2h6xK-GWElpje0NGmRXURzG7tQzeKNqhwN2ZbCnt6uMfp_cgxbhCOArwDZuguMzXdZWWqHXQuMw2UrZpTqVcB2zKx8_pH9rRX8_VT90kaYhhBtI/s640/bienal.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-V3n8zTdns254HU4HooO63lGAdoAe2h6xK-GWElpje0NGmRXURzG7tQzeKNqhwN2ZbCnt6uMfp_cgxbhCOArwDZuguMzXdZWWqHXQuMw2UrZpTqVcB2zKx8_pH9rRX8_VT90kaYhhBtI/s640/bienal.jpg"
+                    ],
+        "resumo":  "Está ocorrendo, na cidade do Rio de Janeiro, 9ª Bienal da UNE, maior encontro cultural de estudantes do país.",
+        "corpo":  [
+                      "Está ocorrendo, na cidade do Rio de Janeiro, 9ª Bienal da UNE, maior encontro cultural de estudantes do país.",
+                      "Este ano o encontro traz como proposta principal as “‪#‎VozesDoBrasil‬, que aproveita o momento de grande participação da juventude no país. Trazendo debates sobre cultura, música, arte e política, os participantes ainda podem prestigiar a maravilhosa paisagem carioca.",
+                      "A União dos Estudantes de Pernambuco, com toda a sua trajetória apoiando a gloriosa UNE, marca presença também neste ano. Levando estudantes do estado, se compromete com a afirmação da política estudantil e de juventude, e fortalecendo a cultura do Brasil.",
+                      "Sediado na sua última edição (2013) em Olinda, teve como \"A volta da Asa Branca\".",
+                      "‪#‎BienalDaUNE‬ ‪#‎UEPpresente‬"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/02/uep-presente-no-encontro-de-politica-e.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-6",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de dezembro de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/12/nota-de-repudio-pela-farsa-na.html"
+    },
+    {
+        "id":  "debate-entre-os-candidatos-e-entrega-da-plataforma-da-uep-para-as-eleicoes",
+        "titulo":  "DEBATE ENTRE OS CANDIDATOS E ENTREGA DA PLATAFORMA DA UEP PARA AS ELEIÇÕES",
+        "data":  "12 de setembro de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEjAQOPY88A0ERXbAoVcXZQaiTF8-PAsXLnZaOntWqWbBoRqGp9gK8n3vZV5c-j39-3vxQquVlk-ye_ZMbYDa8QrEUoNFek3cqREeDDq00H3b-C42qOITWv9bPaO0rKHkUMlWeykuPIs/s400/uep.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEjAQOPY88A0ERXbAoVcXZQaiTF8-PAsXLnZaOntWqWbBoRqGp9gK8n3vZV5c-j39-3vxQquVlk-ye_ZMbYDa8QrEUoNFek3cqREeDDq00H3b-C42qOITWv9bPaO0rKHkUMlWeykuPIs/s400/uep.jpg"
+                    ],
+        "resumo":  "Em parceria com o DCE UNICAP, realizamos nos dias 09/09 e 10/09 o debate entre os candidatos ao governo do Estado e entregamos aos candidatos a plataforma dos estudantes Pernambucanos/as.",
+        "corpo":  [
+                      "Em parceria com o DCE UNICAP, realizamos nos dias 09/09 e 10/09 o debate entre os candidatos ao governo do Estado e entregamos aos candidatos a plataforma dos estudantes Pernambucanos/as.",
+                      "Na ocasião, destacamos a importância da educação pública e de políticas públicas pra Juventude Pernambucana. Dentre os temas abordados estão: Mais investimento na UPE, Plano Estadual de Assistência Estudantil, estadualização das autarquias municipais, Plano Nacional de Educação e etc."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/09/debate-entre-os-candidatos-e-entrega-da.html"
+    },
+    {
+        "id":  "nota-de-apoio-a-paralisacao-dos-rodoviarios-pernambucanos",
+        "titulo":  "NOTA DE APOIO À PARALISAÇÃO DOS RODOVIÁRIOS PERNAMBUCANOS",
+        "data":  "22 de agosto de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Recife (PE), 22 de Agosto de 2014.",
+        "corpo":  [
+                      "Recife (PE), 22 de Agosto de 2014.",
+                      "A União dos Estudantes de Pernambuco – Gestão “Reconstruir a UEP pela base”, vem atráves desta nota, pronunciar-se sobre a nova paralização dos trabalhadores do transporte público de Pernambuco, iniciada na manhã desta sexta (22). Os rodoviários Pernambucanos, foram vitimas de um dos maiores golpes da sua história de lutas, quando o Tribunal Superior do Trabalho, que deveria ser o supremo guardião dos trabalhadores e seus direitos, no último dia 20 de agosto, em uma decisão monocrática e vergonhosa do seu Presidente, Ministro Barros Levenhagen, suspendeu o aumento real de 10% no salário dos trabalhadores, bem como todos os reajustes nos demais beneficios dos rodovários, como o tíquete-alimentação, que havia sido reajustado em 75%, em decisão muito celebrada dos Desembargadores da Justiça doTrabalho de Pernambuco, após a paralização do final do último mês de julho, que simbolizou uma das maiores conquistas da história da categoria no estado.",
+                      "O TST em sua decisão, beneficia os patrões e grandes empresários congregados no URBANA-PE e violenta uma importante conquista dos rodoviários e os direitos dos trabalhadores, assegurados na legislação vigente no Brasil. Estes empresários, ou melhor, patrões, são aqueles que também arrocham o trabalhador, a dona de casa, o estudante e o desempregado, comos aumentos absurdo nas tarifas práticadas pelo transporte público em Pernambuco, engordando cada vez mais os seus cofres, acharcando ainda mais a classe trabalhadora e estudantil e gerando cada vez mais beneficios ao atual Governo de Pernambuco e as forças políticas que o compõe, uma vez que estes, que hoje estão no poder à quase 8 anos, são beneficiados com as mais gordas doações, por parte das empresas de ônibus, em suas campanhas eleitorais e em outros beneficios, emudecendo o estado e tornando inérte frente a essas atrocidades.",
+                      "É inadimissível que a suprema côrte dos trabalhadores e guardiã dos seus direitos, seja conivente com esse atentado aos rodoviários de Pernambuco. Mais inadimissível, é que os cartolas do transporte público, com a plena conivência do Governo do Estado de Pernambuco, sejam os principais responsáveis pelo sucateamento da infraestrutura de transportes públicos do nosso estado e que continue a atentar contra os direitos dos trabalhadores e violente esta grande conquista da classe dos rodoviários, obtida através das lutas justas e acobertadas pelo o inviolável direito de greve por direitos, assegurado ao trabalhador pela lei vigente.",
+                      "A UEP-Cândido Pinto em seus 70 anos de lutas e história, nunca acovardou-se diante dos canhões e armas da ditadura e não há de acovarda-se diante dos impropérios do estado, dos cartolas do transporte e de quem quer que seja, e vem manifestar a solidariedade da entidade, dos seus diretores da gestão “Reconstruir a UEP pela base”, aos rodoviários e todos os trablhadores do transporte público de Pernambuco e declara total apoio a sua justa paralização em busca da retomada das conquistas efetivas ora conquistas, e vem somar-se a esta nova luta, convocando os estudantes de Pernambuco, a engrossar as fileiras em defesa dos direitos dos trabalhadores e dos estudantes.",
+                      "Subscrevem todos os membros da União dos Estudantes de Pernambuco (UEP-Cândido Pinto) - Gestão \"Reconstruir a UEP pela base\"."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/08/nota-de-apoio-paralisacao-dos.html"
+    },
+    {
+        "id":  "nota-de-pesar-pela-tragica-morte-do-ex-governador-de-pernambuco-eduardo-henrique-accioly-c",
+        "titulo":  "NOTA DE PESAR PELA TRÁGICA MORTE DO EX-GOVERNADOR DE PERNAMBUCO, EDUARDO HENRIQUE ACCIOLY CAMPOS",
+        "data":  "13 de agosto de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Recife (PE), 13 de agosto de 2014.",
+        "corpo":  [
+                      "Recife (PE), 13 de agosto de 2014.",
+                      "A União dos Estudantes de Pernambuco, vem a público através desta NOTA DE PESAR, expressar um profundo pesar com a morte do Ex-Governador de Pernambuco, Presidente Nacional do PSB e candidato à Presidência da República Federativa do Brasil, Eduardo Henrique Accioly Campos, ocorrida precocemente na manhã desta quarta, no município de Santos, no estado de São Paulo.",
+                      "A tristeza da fatalidade abala o nosso estado, que perde um dos mais emblemáticos Governadores de sua história, pelo seu histórico de realizações e pela sua grande contribuição e trabalho pelo o avanço de Pernambuco. O Brasil perde um jovem político, de futuro promissor, de notável determinação e força, que o permitiria galgar espaços e a renovação da política do nosso país.",
+                      "Deixada as divergências ideológicas e práticas de lado, essa tragédia nos impõe um profundo luto e a reflexão de seu patriotismo, sua competência, sua paixão por Pernambuco, seu carisma, sua sagacidade e inteligência. Aos familiares, amigos e correligionários, em especial a sua esposa, a Sra. Renata Campos e seus filhos, direciona-se a sincera solidariedade, as orações de força independente de credo e o abraço de conforto daqueles que partilham da dor da perda.",
+                      "Subscrevem todos os membros da União dos Estudantes de Pernambuco (UEP-Cândido Pinto) - Gestão \"Reconstruir a UEP pela base\"."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/08/nota-de-pesar-pela-tragica-morte-do-ex.html"
+    },
+    {
+        "id":  "nota-de-repudio-sobre-a-desocupacao-violenta-do-cais-jose-estelita",
+        "titulo":  "NOTA DE REPÚDIO SOBRE A DESOCUPAÇÃO VIOLENTA DO CAIS JOSÉ ESTELITA",
+        "data":  "23 de junho de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8p0vLIxrQbdSCjfakVGOCm9WYN9qH6brRr5CKOqgfVO-HacmhHUe5qLw_CpHn1Y-LmVoFHHy_4jHjliarLUPr30pJRCl14mAI0krPrh26IM5svPIiQD8Wd27a0tLLr2K8jZBFAc9ewA/s640/estelita+uep.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8p0vLIxrQbdSCjfakVGOCm9WYN9qH6brRr5CKOqgfVO-HacmhHUe5qLw_CpHn1Y-LmVoFHHy_4jHjliarLUPr30pJRCl14mAI0krPrh26IM5svPIiQD8Wd27a0tLLr2K8jZBFAc9ewA/s640/estelita+uep.jpg"
+                    ],
+        "resumo":  "A União dos Estudantes de Pernambuco, vem a público pronunciar-se sobre o episódio lamentável e repugnante da desocupação do Cais José Estelita, ocorrida no último dia 17 de junho de 2014.",
+        "corpo":  [
+                      "A União dos Estudantes de Pernambuco, vem a público pronunciar-se sobre o episódio lamentável e repugnante da desocupação do Cais José Estelita, ocorrida no último dia 17 de junho de 2014.",
+                      "A UEP-Cândido Pinto, em seus 70 anos de luta, sempre esteve presente nas manifestações e ações que representem os interesses coletivos da sociedade, e sempre posicionou-se contra a truculência de governos que fossem incapazes de dialogar com as maiorias. O que foi visto na última semana, foi um dos episódios mais nefastos e emblemáticos de como os atuais governantes do estado de Pernambuco e da cidade do Recife podem ser cruéis e repreensivos aos que lutam por seus ideais, utilizando a máquina de segurança pública do estado e das forças policiais, contra as lutas e o povo, apenas por contrariarem os interesses dos gestores e os interesses ocultos do setor privado, sobretudo das construtoras, mostrando um perfeito e evidente aparelhamento entre governantes do estado e do município aos dos grandes empreiteiros e empresários, contra os interesses do povo, da cidade e do estado, causando uma cicatriz irremediável a democracia e a história da nossa terra.",
+                      "A especulação imobiliária não pode invadir as gestões como hoje e a cidade não pode ser privatizada, como o projeto \"Novo Recife\" propõe, de forma obscena e nociva a cidade. Falando em \"Novo Recife\", é pertinente questionar sobre que novo Recife é este, que é concebido em ilicitudes, conforme investigações em procedimento em diversas esferas do judiciário, e que é imposto, que floreia e é regado ao sangue daqueles que lutam. É repugnante o que houve em 17 de junho, e é apenas uma amostra torpe do que o estado faz e pode fazer, mas isso não deve, não pode e não vai passar despercebido pela sociedade, embora a mídia do estado de Pernambuco (claramente descompromissada em transmitir a veracidade dos fatos e conivente com a carnificina e os abusos de autoridade promovidos), tenham contribuído com o processo injusto de marginalização do Movimento #OcupeEstelita.",
+                      "Vale citar que, a campanha do atual Prefeito do Recife, foi regada com milhões e milhões de reais, oriundos de construtoras e empreiteiras, sendo que parte delas integram o consórcio \"Novo Recife\", responsável pela a execução das obras milionárias do projeto \"Novo Recife\" e principais interessadas na desocupação do Estelita. Isso pode explicar a afobação da Prefeitura e do Governo do Estado em desocupar a área, do jeito imoral e violento que fosse. Isso reforça a necessidade de realizar-se uma reforma política no Brasil, com o estabelecimento do financiamento público das campanha políticas e o fim do financiamento oriundo de pessoas jurídicas, pondo fim aos interesses obscuros e espúrios dos financiadores sob os eleitos.",
+                      "A UEP-Cândido Pinto apóia e solidariza-se com o Movimento #OcupeEstelita e convoca a todas e todos para participarem das mobilizações e atos, como também contribuir com tempo e doações, para permitir a manutenção e continuidade do movimento, como forma de resistir a todos os que querem subjulgar a cidade e os movimentos."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/06/nota-de-repudio-sobre-desocupacao.html"
+    },
+    {
+        "id":  "dez-anos-de-cotas-na-universidade-o-que-mudou",
+        "titulo":  "DEZ ANOS DE COTAS NA UNIVERSIDADE: O QUE MUDOU?",
+        "data":  "15 de junho de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "\"Por Igor Carvalho, na Revista Fórum- junho 2014",
+        "corpo":  [
+                      "\"Por Igor Carvalho, na Revista Fórum- junho 2014",
+                      "Em 1997, apenas 2,2% de pardos e 1,8% de negros, entre 18 e 24 anos cursavam ou tinham concluído um curso de graduação no Brasil. O baixo índice indicava que algo precisava ser feito. “Pessoas estavam impedidas de estudar em nosso país por sua cor de pele ou condição social. Se fazia necessário, na época, uma medida que pudesse abrir caminho para a inclusão de negros e pobres nas universidades”, lembra a pesquisadora e doutora em Educação da Universidade Federal Fluminense (UFF), Teresa Olinda Caminha Bezerra.",
+                      "A solução encontrada para que se diminuísse o déficit histórico de presença de negros e pobres nas universidades brasileiras foi a adoção de ações afirmativas por meio de reservas de vagas, que ficaram conhecidas como cotas. Porém, por todo o país, houve resistências à sua implementação.",
+                      "Em 2003, a Universidade Estadual do Mato Grosso do Sul começou a usar fotos enviadas por estudantes para decidir quais poderiam ter acesso às vagas, que foram determinadas por uma lei aprovada pela assembleia legislativa daquele estado. O “fenótipo” exigido era composto por “lábios grossos, nariz chato e cabelo pixaim”. A ação gerou protestos de movimentos negros. Ainda na Uems, em 2004, o professor de Física Adriano Manoel dos Santos se tornou réu em um processo na Justiça do estado por racismo. Ele teria dito, na sala de aula, que a universidade deveria “nivelar por cima, e não por baixo” o ensino, fazendo alusão aos cotistas presentes na sala, entre eles o estudante Carlos Lopes dos Santos, responsável pela ação judicial.",
+                      "No Rio de Janeiro, em 2004, a Universidade Federal do Rio de Janeiro (UFRJ) anunciou que rejeitaria uma possível política de cotas. O conselho de ensino da instituição, formado por professores, alunos e funcionários rejeitou a ação afirmativa. E o Ministério Público Federal (MPF) do Paraná entrou, em 2004, com um recurso na Justiça pedindo que a Universidade Federal do Paraná (UFPR) não adotasse o sistema de cotas em seu vestibular. O Judiciário paranaense freou a prática entendendo que a reserva de cotas afrontava “o princípio constitucional de isonomia e reforça práticas sociais discriminatórias.”",
+                      "Já em 2012, quando a Universidade de Brasília (UnB) já havia completado oito anos de distribuição de vagas pelo sistema de cotas, o Partido Democratas (DEM) entrou com recurso no Superior Tribunal Federal contra a medida, alegando, inclusive “racismo”.",
+                      "Mas a resistência às cotas não se dava somente no âmbito de conselhos das instituições ou do Judiciário, e muitas vezes se dava por meio de atitudes racistas. Durante um torneio esportivo envolvendo faculdades de Direito, em 2005, torcidas adversárias se referiam à Universidade do Estado do Rio de Janeiro (Uerj) como “Congo”, por sua diversidade racial. A alcunha foi adotada pelos alunos da instituição carioca, e até hoje o país africano é símbolo de suas equipes.",
+                      "Após algumas universidades estaduais e federais aderirem à sistemas de cotas, os números apresentados no começo da matéria começaram a apresentar melhoras. Subiu de 2,2% para 11% a porcentagem de pardos que cursam ou concluíram um curso superior no Brasil; e de 1,8% para 8,8% de negros. Os números são do Ministério da Educação (MEC), em levantamento de 2013. Parte dos movimentos negros questiona os números, considerados “tímidos”. “Não podemos nos conformar com esses dados, são baixos ainda. Há avanços, mas estão muito longe de significar os resultados que buscamos”, afirma Douglas Belchior, do conselho geral da UneAfro e da Frente Pró Cotas Raciais.\"",
+                      "Veja mais em: http://www.une.org.br/2014/06/dez-anos-de-cotas-na-universidade-o-que-mudou/"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/06/dez-anos-de-cotas-na-universidade-o-que.html"
+    },
+    {
+        "id":  "fortes-guerreiras-e-sempre-na-luta",
+        "titulo":  "Fortes, guerreiras e sempre na LUTA!",
+        "data":  "8 de março de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ7jAHQzQXziPECzz1pvxe6JqN5hJIRflTxdp2KwKyH8cSgLpGCU7vXoH2iVxo0AdcvwNM0sFTREyIoB1Y1Ur1G9KpLqSBoiOQpW0_wcf7qg6ECQ7nuTO1ptJMXGKLejgJYZTKvHIHB98/s1600/mulher+livre.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ7jAHQzQXziPECzz1pvxe6JqN5hJIRflTxdp2KwKyH8cSgLpGCU7vXoH2iVxo0AdcvwNM0sFTREyIoB1Y1Ur1G9KpLqSBoiOQpW0_wcf7qg6ECQ7nuTO1ptJMXGKLejgJYZTKvHIHB98/s1600/mulher+livre.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/03/fortes-guerreiras-e-sempre-na-luta.html"
+    },
+    {
+        "id":  "educacao-nao-e-mercadoria",
+        "titulo":  "Educação não é mercadoria!",
+        "data":  "23 de janeiro de 2014",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYWabR-5kaifispxHYUxUyBMJSuenMuoEXTAOv06lRT8eUwpTnD7e59QUnHoEg14ZfVrp0-fyWrhovIJYB7F39Er_dYg_eyUoMgGfOSApd7LQlWyjOAnJTRnS_xgoGcxNlVIBjPyGpzs8/s640/diploma.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYWabR-5kaifispxHYUxUyBMJSuenMuoEXTAOv06lRT8eUwpTnD7e59QUnHoEg14ZfVrp0-fyWrhovIJYB7F39Er_dYg_eyUoMgGfOSApd7LQlWyjOAnJTRnS_xgoGcxNlVIBjPyGpzs8/s640/diploma.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2014/01/educacao-nao-e-mercadoria.html"
+    },
+    {
+        "id":  "estudante-de-luta-usa-carteira-da-uep-candido-pinto",
+        "titulo":  "Estudante de LUTA usa carteira da UEP-Cândido Pinto",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiHDslNhivWMSZGmqDBj-UReTw_DRWyd0S0EsYzW7nbVFzADvoZb57lO0Jy9yIq1Q01-C0v6uO1Z8ggXVzOnKjj0txqZtELO9TfBeDypVeY7pHqpbuvOqzAvGFNuuByubknF230muatM/s640/carteira.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiHDslNhivWMSZGmqDBj-UReTw_DRWyd0S0EsYzW7nbVFzADvoZb57lO0Jy9yIq1Q01-C0v6uO1Z8ggXVzOnKjj0txqZtELO9TfBeDypVeY7pHqpbuvOqzAvGFNuuByubknF230muatM/s640/carteira.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/estudante-de-luta-usa-carteira-da-uep.html"
+    },
+    {
+        "id":  "aula-magna-na-ufpe",
+        "titulo":  "Aula magna na UFPE",
+        "data":  "23 de outubro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8kzPY1A59t4u8dsMvXTn9P9v4W_FjgHsuFtOCvIZ3q2jikSC4xGD4T_z61Mr9CSnQoDopqiFncZ8FiiZ6OPkBUBdQRpaySOtjg_Fjymkocva9h87rju7mU9voFHS_HsbeEgzGogPziw/s320/1382927_439689696141249_989310947_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8kzPY1A59t4u8dsMvXTn9P9v4W_FjgHsuFtOCvIZ3q2jikSC4xGD4T_z61Mr9CSnQoDopqiFncZ8FiiZ6OPkBUBdQRpaySOtjg_Fjymkocva9h87rju7mU9voFHS_HsbeEgzGogPziw/s320/1382927_439689696141249_989310947_n.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/10/aula-magna-na-ufpe.html"
+    },
+    {
+        "id":  "uep-toma-posse-no-conselho-municipal-de-transporte-de-caruaru",
+        "titulo":  "UEP toma posse no Conselho Municipal de Transporte de Caruaru.",
+        "data":  "22 de junho de 2015",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj40i_V54uOe3vFO0INmB8Moymf3QJPE9P-Hr8fOJIJ0j-zkadEh6uSS21EFC3jsazb9InEuR1m5WBiwNDLUlMA6CDawOZRlmJ3ZveFVXnzMYvAH3o0tQZkDWIGDvfQejs0IJUlzzoGnI/s200/1384208_439331852843700_169987854_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj40i_V54uOe3vFO0INmB8Moymf3QJPE9P-Hr8fOJIJ0j-zkadEh6uSS21EFC3jsazb9InEuR1m5WBiwNDLUlMA6CDawOZRlmJ3ZveFVXnzMYvAH3o0tQZkDWIGDvfQejs0IJUlzzoGnI/s200/1384208_439331852843700_169987854_n.jpg"
+                    ],
+        "resumo":  "Na última terça-feira (15/10), foram empossados os integrantes do conselho municipal de transporte de Caruaru. Os conselheiros foram eleitos na conferência municipal de transporte que foi realizada nos dias 19 e 20 de setembro.",
+        "corpo":  [
+                      "Na última terça-feira (15/10), foram empossados os integrantes do conselho municipal de transporte de Caruaru. Os conselheiros foram eleitos na conferência municipal de transporte que foi realizada nos dias 19 e 20 de setembro.",
+                      "O COMUT é composto por 15 membros titulares e 15 suplentes, sendo 4 representantes do poder executivo, 1 da câmara de vereadores, 5 dos prestadores de serviço e 5 membros da sociedade civil. O mandato dos conselheiros será de 2 anos. A União dos Estudantes de Pernambuco ocupará a suplência da vaga dos estudantes, a qual tem como titular a União dos Estudantes Secundaristas de Caruaru. O estudante Émerson Santos será o representante da UEP no conselho."
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2015/06/uep-toma-posse-no-conselho-municipal-de.html"
+    },
+    {
+        "id":  "peaes-sim-2",
+        "titulo":  "PEAES sim! [2]",
+        "data":  "16 de outubro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqlF5W3AYl0VbIRfyBPihsbQnzOywWtD98k7dodtHffaynHiuQlNy6-7XlMqt6i3mU7oUiuuf2RPQf-0PApq-L8gUHabK7gG1y3uTqwosdTtZzJM2YzGMYTU7RzujZViUtylutEg8CkUk/s320/1378716_436490076461211_923076076_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqlF5W3AYl0VbIRfyBPihsbQnzOywWtD98k7dodtHffaynHiuQlNy6-7XlMqt6i3mU7oUiuuf2RPQf-0PApq-L8gUHabK7gG1y3uTqwosdTtZzJM2YzGMYTU7RzujZViUtylutEg8CkUk/s320/1378716_436490076461211_923076076_n.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/10/peaes-sim-2.html"
+    },
+    {
+        "id":  "estudantes-tomam-posse-da-nova-gestao",
+        "titulo":  "Estudantes tomam posse da nova gestão.",
+        "data":  "10 de outubro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUGoDkQKbBQXx4BT408QesYFdPORG-LEIWQfW_fZemSQ6mxhDhpycIRnOZ0mZI5g9tSifmgei6zF6zi_IF7qeh_gYsxWU3sSJqxGu65ZwJwmxYKFgio1WgqQURmn35nNcgZPuL7Q0Q-CQ/s640/1240128_426290747481144_498022954_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUGoDkQKbBQXx4BT408QesYFdPORG-LEIWQfW_fZemSQ6mxhDhpycIRnOZ0mZI5g9tSifmgei6zF6zi_IF7qeh_gYsxWU3sSJqxGu65ZwJwmxYKFgio1WgqQURmn35nNcgZPuL7Q0Q-CQ/s640/1240128_426290747481144_498022954_n.jpg"
+                    ],
+        "resumo":  "Em cerimônia realizada nesta sexta (20/09), na Universidade Católica de Pernambuco (UNICAP), às 19h, no Auditório C.T.C.H, do bloco B, tomou posse do biênio (2013-2015) a nova Diretoria da União dos Estudantes de Pernambuco (UEP – Cândido Pinto), com a gestão “Reconstruir a UEP pela base”, tendo como Presidente, o estudante de psicologia da UNICAP, Luciano de Farias.",
+        "corpo":  [
+                      "Em cerimônia realizada nesta sexta (20/09), na Universidade Católica de Pernambuco (UNICAP), às 19h, no Auditório C.T.C.H, do bloco B, tomou posse do biênio (2013-2015) a nova Diretoria da União dos Estudantes de Pernambuco (UEP – Cândido Pinto), com a gestão “Reconstruir a UEP pela base”, tendo como Presidente, o estudante de psicologia da UNICAP, Luciano de Farias.",
+                      "A atual direção foi conduzida a admissão pelo Diretor de Assistência Estudantil da União Nacional dos Estudantes (UNE) e Presidente do DCE-UNICAP, Marcus Vinícius. A solenidade contou com a presença de diversos parlamentares – Vereadores, Vice-Prefeito, Deputados Federais e Estadual – além da presença das entidades UESPE, ARES e UESO, ex-diretores da UEP, movimentos sociais e sindicais, estudantes, D.A’s e C.A’s, e militantes independentes.",
+                      "Em seu discurso, na solenidade, Luciano de Farias citou: “Obrigado aos companheiros e companheiras que acreditaram em nosso objetivo e, a partir de agora, vamos trabalhar para alcançar o sucesso em nossa gestão.” Após a fala do Presidente, os diretores assumiram a administração.",
+                      "A nova gestão foi eleita 39° Congresso da UEP, que ocorreu na Associação Caruaruense de Ensino Superior (ASCES) entre os dias 14 e 16 de junho, com o tema central “Entrar e ficar na universidade: A juventude pernambucana e os sonhos de um novo tempo”, com o propósito de fazer os estudantes debaterem e lutarem por uma política estudantil e de qualidade. O Congresso é o principal fórum deliberativo, um espaço para discutir e construir os rumos do movimento estudantil, além de eleger a nova diretoria da UEP.",
+                      "Unidos em torno da eleição da chapa “Reconstruir a UEP pela base” e insatisfação com as gestões anteriores, estiveram presentes o PARATOD@S/CNB, Rebele-se/UJR, Movimento Mudança, Movimento Quilombo/EPS, Reconquistar a UEP/AE, Levante Popular da Juventude e estudantes independentes, onde seguiram o processo pautando o interesse dos estudantes pernambucanos e mudanças na condução da entidade que tragam a UEP de volta as lutas cotidianas nas universidades.",
+                      "Por Dyanne Barros"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/10/estudantes-tomam-posse-da-nova-gestao.html"
+    },
+    {
+        "id":  "peaes-sim",
+        "titulo":  "PEAES sim!!",
+        "data":  "2 de outubro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Ontem, 01 de outubro, deu início às audiências públicas, na Assembléia Legislativa de Pernambuco, para debater o Plano Estadual de Assistência Estudantil, o objetivo é viabilizar a igualdade de oportunidades entre todos os estudantes e contribuir para a melhoria do desempenho acadêmico, a partir de medidas que buscam combater situações de repetência e evasão. Foram discutidas, na primeira audiência, moradia e alimentação estudantil A União dos Estudantes de Pernambuco estava presente na Audiência para levar uma proposta que atenda os anseios dos estudantes de todo o estado de Pernambuco e por isso propomos: - Criação de Restaurante Universitário, em todos os polos da UPE para estudantes da Universidade, Prounistas, alunos do FIES e de Autarquias Municipais; Que os alimentos sejam fornecidos pela agricultura familiar; Sejam administrados pela UPE. - Construção de casas de estudantes que atendam todos os estudantes. - Creche Universitária para as estudantes que são mães.",
+        "corpo":  [
+                      "Ontem, 01 de outubro, deu início às audiências públicas, na Assembléia Legislativa de Pernambuco, para debater o Plano Estadual de Assistência Estudantil, o objetivo é viabilizar a igualdade de oportunidades entre todos os estudantes e contribuir para a melhoria do desempenho acadêmico, a partir de medidas que buscam combater situações de repetência e evasão. Foram discutidas, na primeira audiência, moradia e alimentação estudantil A União dos Estudantes de Pernambuco estava presente na Audiência para levar uma proposta que atenda os anseios dos estudantes de todo o estado de Pernambuco e por isso propomos: - Criação de Restaurante Universitário, em todos os polos da UPE para estudantes da Universidade, Prounistas, alunos do FIES e de Autarquias Municipais; Que os alimentos sejam fornecidos pela agricultura familiar; Sejam administrados pela UPE. - Construção de casas de estudantes que atendam todos os estudantes. - Creche Universitária para as estudantes que são mães.",
+                      "Não basta democratizar o acesso ao ensino superior, temos que garantir a permanência dos estudantes na Universidade. Por mais Assistência Estudantil nas IES!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/10/peaes-sim.html"
+    },
+    {
+        "id":  "estamos-reconstruindo-a-uep-pela-base",
+        "titulo":  "Estamos reconstruindo a UEP pela Base!",
+        "data":  "22 de setembro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDSpGBDa92oendn71HykMefbn43zj-MWdpN1upGS95AznZVDIaYecN_wV0MBANSN0VigusEIFCXca5QxGsghFy4OvQUdT77iU8F0TVXJRmzugJBf7xhldNOVlyYYmIeNTQ8eKXZY-W2_4/s400/1236910_426588897451329_1162312938_n.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDSpGBDa92oendn71HykMefbn43zj-MWdpN1upGS95AznZVDIaYecN_wV0MBANSN0VigusEIFCXca5QxGsghFy4OvQUdT77iU8F0TVXJRmzugJBf7xhldNOVlyYYmIeNTQ8eKXZY-W2_4/s400/1236910_426588897451329_1162312938_n.jpg"
+                    ],
+        "resumo":  "",
+        "corpo":  [
+
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/estamos-reconstruindo-uep-pela-base.html"
+    },
+    {
+        "id":  "1-reuniao-historica-da-nova-gestao-aponta-o-caminho",
+        "titulo":  "1ª Reunião histórica da nova gestão aponta o caminho.",
+        "data":  "20 de setembro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "No dia 26 de julho, aconteceu a primeira reunião da nova direção da UEP-Cândido Pinto. A reunião aconteceu na sede do Diretório Central dos Estudantes da Universidade Católica de Pernambuco e contou com a presença maciça da direção da entidade, dirigentes dos grupos integrantes da gestão, além da Presidenta do DCE da FAFIRE, Cris Patos, e do Presidente do DCE da UNICAP e Diretor da UNE, Marcus Vinícius.",
+        "corpo":  [
+                      "No dia 26 de julho, aconteceu a primeira reunião da nova direção da UEP-Cândido Pinto. A reunião aconteceu na sede do Diretório Central dos Estudantes da Universidade Católica de Pernambuco e contou com a presença maciça da direção da entidade, dirigentes dos grupos integrantes da gestão, além da Presidenta do DCE da FAFIRE, Cris Patos, e do Presidente do DCE da UNICAP e Diretor da UNE, Marcus Vinícius.",
+                      "A nova gestão, eleita durante o 39º Congresso da UEP em Caruaru-PE, já começou com todo o gás os trabalhos. Foi acertado os detalhes da posse pública, bem como as atividades que serão desenvolvidas inicialmente, a exemplo do SEMINÁRIO DE GESTÃO e a CARAVANA DA UEP, que irá percorrer os quatro cantos de Pernambuco com atividades culturais e políticas.",
+                      "Outro fato importante acontecido na reunião, foi a adesão do movimento Brizola Vive à gestão, representado na reunião pelo estudante Márcio Eduardo, que reafirmou seu compromisso com o avanço do movimento estudantil em Pernambuco.",
+                      "Para o Presidente da UEP, Luciano de Farias, é justamente a coletividade e participação que fazem a diferença nesta nova gestão, que reúne os principais movimentos estudantis do estado.",
+                      "Por Rodolfo Albuquerque"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/1-reuniao-historica-da-nova-gestao.html"
+    },
+    {
+        "id":  "contra-a-restricao-a-meia-entrada",
+        "titulo":  "Contra à restrição à meia-entrada.",
+        "data":  "20 de setembro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "A Lei Nº 12.852, conhecida como Estatuto da Juventude, foi sancionada pela presidente Dilma Rousseff no dia 5 de agosto após ficar 10 anos em tramitação no Congresso. Mesmo com milhões de estudantes nas ruas do Brasil reivindicando o Passe-livre, esse direito não entrou no Estatuto e a meia-passagem interestadual foi vetada pela Presidenta.",
+        "corpo":  [
+                      "A Lei Nº 12.852, conhecida como Estatuto da Juventude, foi sancionada pela presidente Dilma Rousseff no dia 5 de agosto após ficar 10 anos em tramitação no Congresso. Mesmo com milhões de estudantes nas ruas do Brasil reivindicando o Passe-livre, esse direito não entrou no Estatuto e a meia-passagem interestadual foi vetada pela Presidenta.",
+                      "No que diz respeito ao direito a meia-entrada cultural e em eventos esportivos, a juventude sofreu uma grande derrota. No Artigo 23, parágrafo 10, diz que “A concessão do benefício da meia-entrada de que trata o caput é limitada a 40% do total de ingressos disponíveis para cada evento”. Dessa forma, uma conquista histórica dos estudantes brasileiros, conseguida com muita luta, é jogada pelo ralo.",
+                      "Assim, a lei limita o direito a meia-entrada e propicia o aumento dos lucros dos empresários que, mesmo recebendo dinheiro público através de leis de incentivo à cultura, tentavam a todo custo restringir a venda de ingressos pela metade do preço com a enganação do “ingresso social”.",
+                      "A restrição à meia-entrada é um grande ataque nos direitos juvenis e um retrocesso para @s estudantes, que em geral estão desempregad@s ou recebendo os piores salários em empregos com alta taxa de rotatividade, e por isso têm pouco acesso a cultura e ao lazer já tão caros e raros na vida de cada jovem. Não podemos aceitar que a presidente da UNE e a presidente da UBES apoiem essa medida. Isso é uma vergonha! Vamos derrubar a restrição à meia-entrada nas ruas e com muita luta!",
+                      "Por Bruno de Melo"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/contra-restricao-meia-entrada.html"
+    },
+    {
+        "id":  "pelo-direito-de-ser-estudante-mae-e-trabalhadora",
+        "titulo":  "Pelo direito de ser Estudante, Mãe e Trabalhadora!",
+        "data":  "20 de setembro de 2013",
+        "editoria":  "Feminismo",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Para a maioria d@s estudantes, entrar na Universidade é um desafio, permanecer nela é outro maior ainda. Falta assistência estudantil, segurança e estrutura. Entre os estudantes, a maioria são mulheres (53,5%), no entanto são as que mais sofrem com a falta de assistência e políticas específicas.",
+        "corpo":  [
+                      "Para a maioria d@s estudantes, entrar na Universidade é um desafio, permanecer nela é outro maior ainda. Falta assistência estudantil, segurança e estrutura. Entre os estudantes, a maioria são mulheres (53,5%), no entanto são as que mais sofrem com a falta de assistência e políticas específicas.",
+                      "Menos da metade das estudantes com filhos têm acesso as creches nas universidades federais (43,4%)¹; Ao mesmo tempo, cerca de 68% das estudantes mães, trancam suas matrículas, o que significa que muitas delas abandonam seus cursos por não terem onde deixar os seus filhos. Essa situação é bem mais grave quando se trata de faculdades privadas onde sequer existem creches. Esses dados deixam claro a importância de universalizar o acesso à creche.",
+                      "Por isso, a UEP - CÂNDIDO PINTO, iniciará uma campanha de políticas específicas para as estudantes, em favor de mais creches e assistência estudantil. Lutaremos para que nenhuma estudante deixe a Universidade por falta de assistência. Nesse sentido, realizaremos ainda este ano um Seminário de Mulheres Estudantes, para traçar nossas principais lutas e demandas. É compromisso da gestão Democrática pela Base garantir os direitos das mulheres e lutar por eles.",
+                      "Por Iany Morais"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/pelo-direito-de-ser-estudante-mae-e.html"
+    },
+    {
+        "id":  "uep-contra-o-aumento-de-passagens-7",
+        "titulo":  "UEP CONTRA O AUMENTO DE PASSAGENS!!",
+        "data":  "22 de setembro de 2013",
+        "editoria":  "Movimento estudantil",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-fJKpeUMim8N3iOP1-zDW0bJwNcA7FM7xrqn1O0yZv93hCo17-WfjSkOBheBBClHp2qw6ckGd_n2-87ERnKq6_Iov0MOETFiUW-M2eHuMIClJMeeJSOWOk9aAWbqVW40qlURvamxISuw/s320/0001+%25281%2529.jpg"
+                    ],
+        "resumo":  "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+        "corpo":  [
+                      "Tendo em vista os recentes acontecimentos em relação ao aumento das tarifas dos transportes público na Região Metropolitana do Recife, a União dos Estudantes de Pernambuco – UEP Cândido Pinto, vem informar que se solidariza e apóia todos os movimentos, atos e manifestações que vão de encontro ao reajuste das tarifas que tem um único interesse de sufocar todos os usuários dos transportes públicos. Além do mais, é verídico que o único interesse da empresas de ônibus, juntamente com o Governo de Pernambuco é calar a população que depende todos os dias dos transportes coletivos.",
+                      "Em 2014, nas eleições estaduais, o então candidato ao governo de Pernambuco Paulo Câmara (PSB), em uma das suas promessas de campanha, deixou claro que se assumisse o governo iria transformar todas as tarifas em ÚNICAS ao preço do então Anel A (R$ 2,15). Logo após quando assumiu, alterou todas as tarifas, e o bilhete que custava R$ 2,15, por exemplo, saiu para R$ 2,45. Na época, foi justificado que o aumento teria como objetivo aperfeiçoar a frota de ônibus, além de implantar condicionadores de ar nos veículos. Nada disso foi feito. Agora, mais de um ano após sua promessa de campanha, outro aumento. Todos os Anéis aumentaram de valor. E dessa vez, o Anel A, que custava R$ 2,45, foi para R$ 2,80. O Anel B, que antes custava R$ 3,35, irá para R$ 3,85. Já o Anel D aumentou de R$ 2,65 para R$ 3,85. E o Anel G saiu de R$ 1,60 para R$ 1,85.",
+                      "Além do mais, o aumento foi de 14,42%. Reajuste acima do IPCA (10,45%). Ou seja, acima da inflação acumulada que fechou 2015 em torno dos 10%. Com todos esses fatores em mãos, - promessas de campanha, transportes de péssima qualidade, falta de seguranças nos transportes e aumento acima do índice de preços - é visível termos em mente que o que foi decidido pelo Conselho Superior de Transporte Metropolitano é mais uma estratégia de enganar a população da cidade que sofre, não apenas com os coletivos, mas com um trânsito caótico. O Recife ficou mais uma vez entre as cidades mais congestionadas do mundo. Segundo o TomTom, fabricante de sistemas de navegação por GPS, em pesquisa realizada em 2015, ficamos na sexta posição entre as cidades mais congestionadas do planeta com um nível de 45%.",
+                      "Consideramos também o descaso do Governo do Estado para com os casos de acidentes com estudantes em transportes públicos lotados e com trabalhadores rodoviários estressados pelas péssimas condições oferecidas para esses exercerem seus trabalhos, ocasionando em duas mortes, no ano de 2015, e que não nos foi apresentado nenhuma contrapartida de que os coletivos teriam qualidade para está circulando na Região Metropolitana do Recife.",
+                      "Foram várias as promessas feitas para desafogar o trânsito e facilitar a vida de milhares de usuários que utilizam os transportes públicos todos os dias. Entre essas promessas, estão também os BRT’s e o projeto de navegação do Rio Capibaribe. A primeira que deveria estar pronta antes da Copa de 2014 ainda possui locais que nem estão em processo de acabamento. Ainda por cima, ressaltamos que, como afirmado, o Recife não possuía estrutura física para receber os BRT’s, por ter ruas muito estreitas e mal conservadas. O segundo, que também já deveria estar pronto, mal começou. E talvez, as pouquíssimas das coisas que foram feitas precisem ser reavaliadas.",
+                      "Há anos os movimentos sociais questionam as empresas de ônibus e suas contas. Exigimos uma auditoria nas contas das empresas de ônibus, que argumentam não poder manter o funcionamento das frotas circulando. Porém, lucros milionários são obtidos a custo do sufoco que passamos nos terminais e nos ônibus superlotados.",
+                      "É por esse e por vários outros motivos que União dos Estudantes de Pernambuco apóia e solidariza com todos os movimentos, atos e manifestações que bravamente se opõem à mais uma manobra do poder público em querer sufocar a população. Diante da situação convocamos todas e todos estudantes a estarem conosco, nesta sexta (22), na Praça do Derby às 17h para mais uma vez tomarmos às ruas contra o aumento abusivo de passagens!"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/o-povo-nas-ruas-conquista-vitorias.html"
+    },
+    {
+        "id":  "a-uep-somos-nos-nossa-forca-e-nossa-voz",
+        "titulo":  "A UEP SOMOS NÓS, NOSSA FORÇA E NOSSA VOZ!",
+        "data":  "20 de setembro de 2013",
+        "editoria":  "Congresso",
+        "imagem":  "",
+        "imagens":  [
+
+                    ],
+        "resumo":  "Colegas Estudantes:",
+        "corpo":  [
+                      "Colegas Estudantes:",
+                      "Chega um momento na vida em que a mudança tem que acontecer, como um passo natural para que possamos crescer e para que os nossos objetivos evoluam. No movimento estudantil, não é diferente, sobretudo em Pernambuco, quando nos dias 14, 15 e 16 de junho, na sede da Associação Caruaruense de Ensino Superior (ASCES), a UEP começou a passar por um processo radical de mudanças e reconstrução do diálogo com as bases estudantis.",
+                      "A UEP havia se tornado uma entidade desconhecida dos estudantes. As polêmicas causadas pela falta de transparência das gestões, a lisura questionável dos fóruns de deliberação e a bajulação do governo Eduardo Campos colocaram os verdadeiros princípios da entidade no lixo. O sentimento de mudança fez com que no 39º congresso, fosse reacendida a chama da reconstrução da UEP, pela base e pela militância, unindo os movimentos Acionando Flores, Rebele-se, Movimento Mudança, Quilombo, Levante Popular da Juventude, Reconquistar a UEP, e estudantes independentes, na chapa de oposição \"Reconstruindo a UEP pela base\".",
+                      "A antiga direção da entidade, capitaneada pela a União da Juventude Socialista (UJS), ficou desesperada e quis encerrar as discussões do congresso e passar direto para a realização das eleições para a nova diretoria, sem divulgar o resultado final do credenciamento dos delegados. Assim, a lisura da eleição não teria como ser garantida, acarretando numa fraude eleitoral. Lamentavelmente, a UJS optou pela fraude e pelo desrespeito ao estudante, sobretudo aos que lá estavam presentes no congresso, dispostos a integrar discussões sérias para o engrandecimento do movimento estudantil e reencontro da UEP com as lutas.",
+                      "A maioria dos presentes, dessa forma, decidiu realizar uma plenária na área externa da quadra da ASCES, onde foi eleita a nova diretoria da UEP, já registrada em cartório, para o biênio 2013-2015, sob a liderança de Luciano de Farias (Bambucha), estudante de Psicologia da UNICAP.",
+                      "Infelizmente, a organização juvenil, UJS, segue em frente com a fraude e continua se autoproclamando UEP, não aceitando a derrota na eleição.",
+                      "Mais do que nunca, muitos coletivos e estudantes independentes se reuniram e continuam na luta para fazer da UEP uma entidade ativa. Não vamos cair em disputa por interesses pequenos com organizações juvenis ligadas a grandes empresas e que defendem a restrição à meia-entrada. A UEP é maior, é de todos os estudantes e lutaremos juntos por uma educação superior soberana, pública, gratuita e de qualidade!",
+                      "Por Luciano de Farias"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/a-uep-somos-nos-nossa-forca-e-nossa-voz.html"
+    },
+    {
+        "id":  "nova-uep-com-nova-atitude",
+        "titulo":  "Nova UEP com nova atitude.",
+        "data":  "20 de setembro de 2013",
+        "editoria":  "Congresso",
+        "imagem":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzEH-mB29ueuG4tNx1ONgQY_gWzYt2vzBYNdVSSpW8oF9aBZ2hf4W4gN_w79r8WX3cfSfzsFMMSj6fHkkS4iuQdr8u8mil1WlTyRWIedYgKgUjItHqHwy6M_K6V-b5ZJETPyhzSs2dQs/s1600/uep.jpg",
+        "imagens":  [
+                        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzEH-mB29ueuG4tNx1ONgQY_gWzYt2vzBYNdVSSpW8oF9aBZ2hf4W4gN_w79r8WX3cfSfzsFMMSj6fHkkS4iuQdr8u8mil1WlTyRWIedYgKgUjItHqHwy6M_K6V-b5ZJETPyhzSs2dQs/s1600/uep.jpg"
+                    ],
+        "resumo":  "Estudantes elegem a nova gestão: \"RECONSTRUIR A UEP PELA BASE\"",
+        "corpo":  [
+                      "Estudantes elegem a nova gestão: \"RECONSTRUIR A UEP PELA BASE\"",
+                      "A União dos Estudantes de Pernambuco – Cândido Pinto – UEP, é a entidade máxima de representação de tod@s estudantes de ensino superior em Pernambuco. É responsável por articular a rede do movimento estudantil no estado, realizando lutas e debates nas Instituições de Ensino Superior, seja pública ou privada. Fortalecendo assim o envolvimento dos estudantes nas questões que afetam toda a sociedade.",
+                      "A UEP tem uma grande história. Fundada em 1944, superou grandes obstáculos para se manter ativa. Durante a ditadura militar no Brasil (1964-85), o estudante Cândido Pinto, então presidente da UEP, passou a ser perseguido pelos militares, sendo metralhado durante uma passeata na Boa Vista, ficando paraplégico. Após anos sem gestão, em 2005 acontece o Congresso de Refundação da UEP, elegendo Cândido Pinto como patrono da entidade, em homenagem a sua história de luta.",
+                      "Inspirados nessa história é que toma posse no mês de setembro de 2013 a nova diretoria da UEP, para a gestão bienal 2013/2015. O grupo que agora assume a direção da entidade é composto por diversos coletivos e movimentos que constroem o Movimento Estudantil Pernambucano de forma democrática e com apoio de estudantes de dezenas de instituições superiores.",
+                      "Muitos estudantes não sabem o que significa a UEP, porque as últimas gestões da entidade ficaram distante da classe estudantil. Mas isso irá mudar! Essa nova gestão chega com muita disposição e compromisso com as reivindicações da juventude pernambucana, que nos meses de junho e julho demonstrou nas ruas que não tem medo de lutar. Queremos construir uma unidade real d@s estudantes e levar para as salas de aulas debates sobre educação, trabalho, cultura, meio ambiente, esportes, aprofundar discussões como a homossexualidade, questões de gênero, questões raciais e questões específicas das mulheres.",
+                      "Para esta gestão queremos ir mais além e criar uma nova referência: uma entidade que seja instrumento de luta para @s estudantes. Viva a organização estudantil e a luta da juventude!",
+                      "Por Cinara Couto"
+                  ],
+        "origem":  "https://uepcandidopinto.blogspot.com/2013/09/nova-uep-com-nova-atitude.html"
+    }
+];
+
+window.paginasUEP = [
+    {
+        "key":  "historia",
+        "navTitle":  "História",
+        "title":  "História",
+        "corpo":  [
+                      "A União dos Estudantes de Pernambuco – Cândido Pinto, é a principal entidade estudantil de Pernambuco. Fundada em 1944, representa os estudantes universitários de todo o estado, com sede na cidade de Recife. Tem atuação destacada na defesa dos direitos estudantis e na luta por um país mais justo e soberano. Fundação Durante o período de consolidação da União Nacional dos Estudantes (UNE), um dos esforços dos seus dirigentes foi percorrer o Brasil construindo uniões estaduais de estudantes. Mas, apesar do esforço inicial da entidade e da efetiva participação dos estudantes pernambucanos durante a sua fundação, a União dos Estudantes de Pernambuco só foi criada em 1944, durante as preparações para o Congresso da UNE, realizado em Julho daquele ano, no Rio de Janeiro. Sua primeira eleição, provavelmente realizada por meio de um Conselho de Entidades, elegeu Odilon Ribeiro Coutinho presidente da entidade. Logo depois de sua fundação, a UEP ficou responsável pela articulação do movimento estudantil pernambucano em torno dos debates sobre os grandes temas nacionais. A gestão de Odilon Ribeiro Coutinho assumiu um compromisso expressamente político e atuou de forma sistemática na luta pela redemocratização da sociedade brasileira. Cândido Pinto Cândido Pinto de Melo foi um dos mais notáveis presidentes da UEP, sendo eleito em meio aos anos de chumbo, em plena Ditadura Militar. Perseguido pelos militares, sofreu um atentado em 29 de Abril de 1969 que lhe deixou numa cadeira de rodas pelo resto da vida. No dia 6 de Setembro de 2005, a entidade foi reativada e passou a adotar o nome União dos Estudantes de Pernambuco – Cândido Pinto, em homenagem ao seu histórico militante. O fechamento da entidade Após o atentado contra Cândido Pinto, um dos últimos presidentes da UEP que se tem conhecimento nos anos 1970, a entidade viveu momentos de indefinição, ou mesmo inexistência, até a década de 1980. Nessa passagem de tempo, existiram pelo menos duas tentativas comprovadas de recriação da UEP, uma delas bem sucedida em 1980, que elegeu Pedro Laurentino, estudante de Agronomia da UFRPE, presidente, ainda que a entidade não fosse reconhecida pelas universidades. Entretanto, em 1984 a entidade desintegrou-se totalmente, voltando a ressurgir em 2005. A reconstrução da UEP Foram muitas as lutas, tentativas e sacrifícios para que em Maio de 2005 ocorresse a retomada da mais importante representação do movimento estudantil de Pernambuco. O processo começou no final de 2004, quando a União Nacional dos Estudantes junto aos Diretórios Centrais dos Estudantes (DCE’s) do estado convocaram um Conselho Estadual de Entidades Gerais (CEEG), realizado naUniversidade de Pernambuco. Foi neste CEEG que ficou definida a reconstrução da UEP. Após a decisão, a começaram os preparativos: visitas às universidades, mobilização dos estudantes, panfletagens, campanhas, etc. Até que em Maio de 2005 foi realizado o 35º Congresso da UEP, ou “Congresso de Refundação”, na Universidade Federal de Pernambuco, cuja Plenária final aconteceu no Colégio de Aplicação da universidade. O Congresso elegeu o estudante de Direito da UFPE e então diretor da UNE Geraldo Vilar como seu presidente. Dois anos depois, a reconstrução da UEP se consolida em seu 36º Congresso, ocorrido na cidade de Garanhuns, agreste do estado, que elegeu pela primeira vez uma mulher para estar à frente da entidade, a estudante de Direito da UNICAP Anne Cabral. Por seguinte, UEP desenvolveu ações e lutas em todo o estado de Pernambuco. Tendo o 37º de sua história, ocorrido na cidade de Petrolina entre 22 e 24 de Maio, conseguiu pela primeira vez mobilizar estudantes de todas as faculdades e universidades do estado, elegendo ao final a estudante de Direito da UFPE Virgínia Barros para presidente pelo biênio 2009/2011. Em 2011, o estudante de Biomedicina da UFPE, Thauan Fernandes, foi eleito no 38° Congresso, que ocorreu na cidade de Caruaru entre os dias 17 e 19 de junho. Com o tema de \"Um novo Pernambuco, Uma nova Universidade. No biênio seguinte, em momento histórico, o estudante de Psicologia da Universidade Católica de Pernambuco, Luciano de Farias, foi eleito no congresso que debatia o tema central de, “Entrar e ficar na universidade: a juventude pernambucana e os sonhos de um novo tempo”. Com a crescente democratização do ensino superior por meio de políticas de acesso, o movimento estudantil pernambucano anseia aproveitar a reunião das suas principais lideranças para debater com os estudantes as demandas, pontos positivos, críticas e sugestões em relação à permanência e assistência estudantil, onde teve representação estudantil de todo o estado. A UEP hoje Para o biênio 2025-2027, a UEP é presidida por Maria da Conceição Santos Vieira, eleita no 44º Congresso da União dos Estudantes de Pernambuco. Dentre as grandes bandeiras de luta da entidade, destacam-se a luta pela Reforma do Ensino Superior brasileiro, a federalização das autarquias municipais de ensino do estado e a defesa da soberania, da democracia e do desenvolvimento do país. PRESIDENTES Odilon Ribeiro Coutinho (1944-1946) Armando Monteiro Filho (1947) Genival Barbosa Guimarães (1948) Marco Maciel (1962-1963) José Tinoco Machado de Albuquerque (1963-1964) Djair de Barros Lima – interventor (1964) Cândido Pinto (1968-1969) Roberto Peixe (1969-1970) Pedro Laurentino (1980-1982) Eugléubio Andrade de Oliveira (1984) Geraldo Vilar (2005-2007) Anne Cabral (2007-2009) Virgínia Barros (2009-2011) Thauan Fernandes (2011-2013) Luciano de Farias (2013-2015) Dyanne Barros e Marcus Vinícius (2015-2017) Jéssica Nathalia Lima de Santana (2023-2025) Maria da Conceição Santos Vieira (2025-2027)",
+                      "A União dos Estudantes de Pernambuco – Cândido Pinto, é a principal entidade estudantil de Pernambuco. Fundada em 1944, representa os estudantes universitários de todo o estado, com sede na cidade de Recife. Tem atuação destacada na defesa dos direitos estudantis e na luta por um país mais justo e soberano.",
+                      "Fundação",
+                      "Durante o período de consolidação da União Nacional dos Estudantes (UNE), um dos esforços dos seus dirigentes foi percorrer o Brasil construindo uniões estaduais de estudantes. Mas, apesar do esforço inicial da entidade e da efetiva participação dos estudantes pernambucanos durante a sua fundação, a União dos Estudantes de Pernambuco só foi criada em 1944, durante as preparações para o Congresso da UNE, realizado em Julho daquele ano, no Rio de Janeiro. Sua primeira eleição, provavelmente realizada por meio de um Conselho de Entidades, elegeu Odilon Ribeiro Coutinho presidente da entidade.",
+                      "Logo depois de sua fundação, a UEP ficou responsável pela articulação do movimento estudantil pernambucano em torno dos debates sobre os grandes temas nacionais. A gestão de Odilon Ribeiro Coutinho assumiu um compromisso expressamente político e atuou de forma sistemática na luta pela redemocratização da sociedade brasileira.",
+                      "No dia 6 de Setembro de 2005, a entidade foi reativada e passou a adotar o nome União dos Estudantes de Pernambuco – Cândido Pinto, em homenagem ao seu histórico militante.",
+                      "Após o atentado contra Cândido Pinto, um dos últimos presidentes da UEP que se tem conhecimento nos anos 1970, a entidade viveu momentos de indefinição, ou mesmo inexistência, até a década de 1980. Nessa passagem de tempo, existiram pelo menos duas tentativas comprovadas de recriação da UEP, uma delas bem sucedida em 1980, que elegeu Pedro Laurentino, estudante de Agronomia da UFRPE, presidente, ainda que a entidade não fosse reconhecida pelas universidades. Entretanto, em 1984 a entidade desintegrou-se totalmente, voltando a ressurgir em 2005.",
+                      "Foram muitas as lutas, tentativas e sacrifícios para que em Maio de 2005 ocorresse a retomada da mais importante representação do movimento estudantil de Pernambuco. O processo começou no final de 2004, quando a União Nacional dos Estudantes junto aos Diretórios Centrais dos Estudantes (DCE’s) do estado convocaram um Conselho Estadual de Entidades Gerais (CEEG), realizado naUniversidade de Pernambuco. Foi neste CEEG que ficou definida a reconstrução da UEP.",
+                      "Após a decisão, a começaram os preparativos: visitas às universidades, mobilização dos estudantes, panfletagens, campanhas, etc. Até que em Maio de 2005 foi realizado o 35º Congresso da UEP, ou “Congresso de Refundação”, na Universidade Federal de Pernambuco, cuja Plenária final aconteceu no Colégio de Aplicação da universidade. O Congresso elegeu o estudante de Direito da UFPE e então diretor da UNE Geraldo Vilar como seu presidente.",
+                      "Dois anos depois, a reconstrução da UEP se consolida em seu 36º Congresso, ocorrido na cidade de Garanhuns, agreste do estado, que elegeu pela primeira vez uma mulher para estar à frente da entidade, a estudante de Direito da UNICAP Anne Cabral.",
+                      "Por seguinte, UEP desenvolveu ações e lutas em todo o estado de Pernambuco. Tendo o 37º de sua história, ocorrido na cidade de Petrolina entre 22 e 24 de Maio, conseguiu pela primeira vez mobilizar estudantes de todas as faculdades e universidades do estado, elegendo ao final a estudante de Direito da UFPE Virgínia Barros para presidente pelo biênio 2009/2011.",
+                      "Em 2011, o estudante de Biomedicina da UFPE, Thauan Fernandes, foi eleito no 38° Congresso, que ocorreu na cidade de Caruaru entre os dias 17 e 19 de junho. Com o tema de \"Um novo Pernambuco, Uma nova Universidade.",
+                      "No biênio seguinte, em momento histórico, o estudante de Psicologia da Universidade Católica de Pernambuco, Luciano de Farias, foi eleito no congresso que debatia o tema central de, “Entrar e ficar na universidade: a juventude pernambucana e os sonhos de um novo tempo”. Com a crescente democratização do ensino superior por meio de políticas de acesso, o movimento estudantil pernambucano anseia aproveitar a reunião das suas principais lideranças para debater com os estudantes as demandas, pontos positivos, críticas e sugestões em relação à permanência e assistência estudantil, onde teve representação estudantil de todo o estado.",
+                      "Para o biênio 2025-2027, a UEP é presidida por Maria da Conceição Santos Vieira, eleita no 44º Congresso da União dos Estudantes de Pernambuco.",
+                      "Dentre as grandes bandeiras de luta da entidade, destacam-se a luta pela Reforma do Ensino Superior brasileiro, a federalização das autarquias municipais de ensino do estado e a defesa da soberania, da democracia e do desenvolvimento do país.",
+                      "PRESIDENTES",
+                      "Odilon Ribeiro Coutinho (1944-1946)",
+                      "Armando Monteiro Filho (1947)",
+                      "Genival Barbosa Guimarães (1948)",
+                      "Marco Maciel (1962-1963)",
+                      "José Tinoco Machado de Albuquerque (1963-1964)",
+                      "Djair de Barros Lima – interventor (1964)",
+                      "Cândido Pinto (1968-1969)",
+                      "Roberto Peixe (1969-1970)",
+                      "Pedro Laurentino (1980-1982)",
+                      "Eugléubio Andrade de Oliveira (1984)",
+                      "Geraldo Vilar (2005-2007)",
+                      "Anne Cabral (2007-2009)",
+                      "Virgínia Barros (2009-2011)",
+                      "Thauan Fernandes (2011-2013)",
+                      "Luciano de Farias (2013-2015)",
+                      "Dyanne Barros e Marcus Vinícius (2015-2017)",
+                      "Jéssica Nathalia Lima de Santana (2023-2025)",
+                      "Maria da Conceição Santos Vieira (2025-2027)"
+                  ],
+        "links":  [
+                      {
+                          "href":  "http://dicionario.sensagent.com/Pernambuco/pt-pt/",
+                          "text":  "Pernambuco"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Recife/pt-pt/",
+                          "text":  "Recife"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Uni%C3%A3o_Nacional_dos_Estudantes/pt-pt/",
+                          "text":  "União Nacional dos Estudantes"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/UFRPE/pt-pt/",
+                          "text":  "UFRPE"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Pernambuco/pt-pt/",
+                          "text":  "Pernambuco"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Uni%C3%A3o_Nacional_dos_Estudantes/pt-pt/",
+                          "text":  "União Nacional dos Estudantes"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Universidade_de_Pernambuco/pt-pt/",
+                          "text":  "Universidade de Pernambuco"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Universidade_Federal_de_Pernambuco/pt-pt/",
+                          "text":  "Universidade Federal de Pernambuco"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Garanhuns/pt-pt/",
+                          "text":  "Garanhuns"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/UNICAP/pt-pt/",
+                          "text":  "UNICAP"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Pernambuco/pt-pt/",
+                          "text":  "Pernambuco"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Petrolina/pt-pt/",
+                          "text":  "Petrolina"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Odilon_Ribeiro_Coutinho/pt-pt/",
+                          "text":  "Odilon Ribeiro Coutinho"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Armando_Monteiro_Filho/pt-pt/",
+                          "text":  "Armando Monteiro Filho"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Marco_Maciel/pt-pt/",
+                          "text":  "Marco Maciel"
+                      },
+                      {
+                          "href":  "http://dicionario.sensagent.com/Pedro_Laurentino/pt-pt/",
+                          "text":  "Pedro Laurentino"
+                      }
+                  ],
+        "imagens":  [
+
+                    ],
+        "origem":  "https://uepcandidopinto.blogspot.com/p/historia.html"
+    },
+    {
+        "key":  "diretoria",
+        "navTitle":  "Diretoria",
+        "title":  "Diretoria",
+        "corpo":  [
+                      "DIRETORIA EXECUTIVA",
+                      "DIRETORIA EXECUTIVA 2025-2027: Maria da Conceição Santos Vieira - Presidente; Cassiano Gabriel Andrade Bezerra - Vice-presidente; Victor Hugo de Freitas Cavalcanti - Tesoureiro Geral; Beatriz Gomes Tavares - Primeira Tesoureira; Crislayne Sá Trapiá - Secretária Geral; Marcelo Augusto de Lima Costa - Segundo Secretário. DIRETORIA PLENA 2025-2027: Jesse Lisboa - Diretor de Comunicação; José Aparecido Santos Junior - Diretor de Assistência Estudantil; Pablo Henrique Almeida de Souza - Diretor de Relações Institucionais; Maria Eduarda Pinto da Silva - Vice Região Metropolitana do Recife; Davi Lima Marques - Vice Agreste; Alysson Monteiro Chagas - Vice Sertão."
+                  ],
+        "links":  [
+
+                  ],
+        "imagens":  [
+
+                    ],
+        "origem":  "https://uepcandidopinto.blogspot.com/p/diretoria.html"
+    },
+    {
+        "key":  "multimidia",
+        "navTitle":  "Multimídia",
+        "title":  "Acervo visual da UEP",
+        "corpo":  [
+                      "Acervo visual da UEP com logos institucionais, registros de mobilização estudantil e imagens do CONUNE.",
+                      "A página reúne a logo da UEP Cândido Pinto, a logo da UNE e fotografias organizadas em galeria para consulta pública."
+                  ],
+        "links":  [
+
+                  ],
+        "imagens":  [
+                        "assets/multimidia/logo-uep-candido-pinto.png",
+                        "assets/une.jpg",
+                        "assets/multimidia/conune/54675540932_8f3f4db099_h.jpg"
+                    ],
+        "origem":  "https://uepcandidopinto.blogspot.com/p/multimidia.html"
+    },
+    {
+        "key":  "entidades",
+        "navTitle":  "Entidades de Base",
+        "title":  "Entidades de Base",
+        "corpo":  [
+                      "Entidades de base, são as organizações do Movimento Estudantil que representam os estudantes no dia a dia, ou seja, aquelas que estão dentro dos cursos, das faculdades e Universidades, essas entidades são os Centos e Diretórios acadêmicos e os Diretórios Centrais (C.A.\u0027s, D.A.\u0027s e DCE\u0027s!).",
+                      "A UEP tem a preocupação de manter um dialogo constante com essas entidades, por isso criamos esse espaço, para que tod@s estudantes do estado possam conhecer aquelas entidades que já constroem a luta do movimento estudantil junto à UEP.",
+                      "E ainda deixamos um convite a todas as demais entidades que queiram vir construir conosco as lutas e bandeiras defendidas pela UEP!",
+                      "Essas são algumas das entidades que Constroem a União dos Estudantes de Pernambuco:",
+                      "Diretório Central dos Estudantes da Universidade Federal de Pernambuco - DCE UFRPE -",
+                      "Odijas Carvalho de Souza;",
+                      "Diretório Central dos Estudantes da Universidade de Pernambuco - DCE UPE - Professor Paulo Freire;",
+                      "Diretório Central dos Estudantes da Universidade Católica de Pernambuco - DCE Unicap;",
+                      "Diretório Central dos Estudantes da Faculdade Frassinette do Recife - DCE Fafire;",
+                      "Diretório Central dos Estudantes da Faculdade de Escada - DCE FAESC;",
+                      "Diretório Acadêmico de Farmácia da UNISSAU;",
+                      "Diretório Acadêmico de Serviço Social da ASCES - Caruaru;",
+                      "Diretório Acadêmico de Fonoaudiologia da UFPE;",
+                      "Diretório Acadêmico da Área 2 da UFPE;",
+                      "Diretório Acadêmico de Serviço Social da Estácio/FIR;",
+                      "Diretório Acadêmico de Psicologia da Estácio/FIR; Diretório Acadêmico de Farmácia da UNIVASF - Petrolina;"
+                  ],
+        "links":  [
+
+                  ],
+        "imagens":  [
+
+                    ],
+        "origem":  "https://uepcandidopinto.blogspot.com/p/entidades-de-base.html"
+    },
+    {
+        "key":  "contatos",
+        "navTitle":  "Contatos",
+        "title":  "Contatos",
+        "corpo":  [
+                      "FACEBOOK: http://facebook.com/UEPdemocratica",
+                      "TWITTER: @UEPdemocratica",
+                      "E-MAIL: contato.uep@gmail.com"
+                  ],
+        "links":  [
+
+                  ],
+        "imagens":  [
+
+                    ],
+        "origem":  "https://uepcandidopinto.blogspot.com/p/contatos.html"
+    }
+];
+
+

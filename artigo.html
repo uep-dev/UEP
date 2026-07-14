@@ -1,0 +1,122 @@
+﻿<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#e71927" />
+    <meta name="description" content="Artigo do acervo da UEP Cândido Pinto." />
+    <title>Artigo | UEP</title>
+    <link rel="canonical" href="https://uep-dev.github.io/UEP/artigo.html" />
+    <link rel="icon" href="assets/favicon.png?v=2" type="image/png" />
+    <link rel="apple-touch-icon" href="assets/favicon.png?v=2" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="site-header">
+      <div class="masthead">
+        <a class="brand" href="index.html" aria-label="Página inicial da UEP">
+          <img src="assets/logo-uep.jpg" alt="Marca da UEP Cândido Pinto" width="2048" height="2047" />
+          <span>
+            <small>União dos Estudantes de Pernambuco</small>
+            <strong>UEP Cândido Pinto</strong>
+          </span>
+        </a>
+
+        <div class="view-controls" aria-label="Preferências de visualização">
+          <button class="mode-button" type="button" data-mode-toggle="dark" aria-pressed="false">Escuro</button>
+          <button class="mode-button" type="button" data-open-access-panel>Acessibilidade</button>
+        </div>
+
+        <div class="header-actions" aria-label="Ações rápidas">
+          <a href="jornais/jornal-uep-outubro-2025.pdf" download>Baixar jornal</a>
+          <a class="header-cta" href="carteirinha.html">
+            Fazer carteirinha
+          </a>
+        </div>
+
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="visually-hidden">Abrir menu</span>
+        </button>
+      </div>
+
+      <nav class="main-nav" id="menu-principal" aria-label="Menu principal">
+        <a href="index.html">Início</a>
+        <a href="blog.html">Blog</a>
+        <a href="historia.html">História</a>
+        <a href="diretoria.html">Diretoria</a>
+        <a href="entidades.html">Entidades</a>
+        <a href="multimidia.html">Multimídia</a>
+        <a href="jornal.html">Jornal</a>
+        <a href="carteirinha.html">Carteirinha</a>
+        <a href="contatos.html">Contatos</a>
+      </nav>
+    </header>
+
+    <main id="conteudo">
+      <article class="article-page" id="article-page" aria-live="polite">
+        <p class="section-label">Acervo</p>
+        <h1>Carregando artigo</h1>
+      </article>
+
+      <section class="related-section" aria-labelledby="relacionados-titulo">
+        <div class="section-heading">
+          <p class="section-label">Leia também</p>
+          <h2 id="relacionados-titulo">Outros artigos do acervo</h2>
+        </div>
+        <div class="related-grid" id="related-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong>UEP Cândido Pinto</strong>
+        <span>União dos Estudantes de Pernambuco</span>
+        <small>© 2026 UEP Cândido Pinto. Todos os direitos reservados.</small>
+      </div>
+      <nav aria-label="Rodapé">
+        <a href="index.html">Portal</a>
+        <a href="blog.html">Blog</a>
+        <a href="jornal.html">Jornal</a>
+        <a href="https://www.instagram.com/uepoficial/">Instagram</a>
+        <a href="politica.html">Privacidade e cookies</a>
+      </nav>
+    </footer>
+
+    <dialog class="access-dialog" id="accessPanel">
+      <button class="dialog-close" type="button" data-close-access-panel aria-label="Fechar acessibilidade">×</button>
+      <p class="section-label">Acessibilidade</p>
+      <h2>Ajustes de leitura e conforto</h2>
+      <p>As preferências ficam salvas neste navegador.</p>
+      <div class="access-grid">
+        <label class="toggle-row">
+          Alto contraste
+          <input type="checkbox" data-access-pref="highContrast" />
+        </label>
+        <label class="toggle-row">
+          Fonte maior
+          <input type="checkbox" data-access-pref="largeFont" />
+        </label>
+        <label class="toggle-row">
+          Modo escuro
+          <input type="checkbox" data-access-pref="darkMode" />
+        </label>
+        <label class="toggle-row">
+          Redução sensorial
+          <input type="checkbox" data-access-pref="calmMode" />
+        </label>
+      </div>
+    </dialog>
+
+    <script src="artigos.js" defer></script>
+    <script src="script.js" defer></script>
+  </body>
+</html>
+
+
+
+

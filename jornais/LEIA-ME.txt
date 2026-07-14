@@ -1,0 +1,11 @@
+Coloque nesta pasta os PDFs dos jornais da UEP.
+
+O botão ativo da página inicial aponta para este arquivo:
+
+- jornal-uep-outubro-2025.pdf
+
+Também há um espaço reservado para uma próxima edição:
+
+- jornal-uep-especial-candido-pinto.pdf
+
+Se os arquivos tiverem outros nomes, basta trocar os links na seção "Jornais da entidade" do arquivo index.html.

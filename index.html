@@ -1,0 +1,321 @@
+﻿<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#e71927" />
+    <meta
+      name="description"
+      content="Portal da União dos Estudantes de Pernambuco, UEP Cândido Pinto, com notícias, carteirinha estudantil, redes sociais e jornais da entidade."
+    />
+    <title>Início | UEP</title>
+    <link rel="canonical" href="https://uep-dev.github.io/UEP/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UEP Cândido Pinto" />
+    <meta property="og:title" content="Início | UEP" />
+    <meta
+      property="og:description"
+      content="Portal da União dos Estudantes de Pernambuco, UEP Cândido Pinto, com notícias, carteirinha estudantil, redes sociais e jornais da entidade."
+    />
+    <meta property="og:url" content="https://uep-dev.github.io/UEP/" />
+    <meta property="og:image" content="https://uep-dev.github.io/UEP/assets/logo-uep.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="assets/favicon.png?v=2" type="image/png" />
+    <link rel="apple-touch-icon" href="assets/favicon.png?v=2" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="site-header">
+      <div class="masthead">
+        <a class="brand" href="index.html" aria-label="Página inicial da UEP">
+          <img src="assets/logo-uep.jpg" alt="Marca da UEP Cândido Pinto" width="2048" height="2047" />
+          <span>
+            <small>União dos Estudantes de Pernambuco</small>
+            <strong>UEP Cândido Pinto</strong>
+          </span>
+        </a>
+
+        <div class="view-controls" aria-label="Preferências de visualização">
+          <button class="mode-button" type="button" data-mode-toggle="dark" aria-pressed="false">Escuro</button>
+          <button class="mode-button" type="button" data-open-access-panel>Acessibilidade</button>
+        </div>
+
+        <div class="header-actions" aria-label="Ações rápidas">
+          <a href="jornais/jornal-uep-outubro-2025.pdf" download>Baixar jornal</a>
+          <a class="header-cta" href="carteirinha.html">
+            Fazer carteirinha
+          </a>
+        </div>
+
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="visually-hidden">Abrir menu</span>
+        </button>
+      </div>
+
+      <nav class="main-nav" id="menu-principal" aria-label="Menu principal">
+        <a href="index.html">Início</a>
+        <a href="blog.html">Blog</a>
+        <a href="historia.html">História</a>
+        <a href="diretoria.html">Diretoria</a>
+        <a href="entidades.html">Entidades</a>
+        <a href="multimidia.html">Multimídia</a>
+        <a href="jornal.html">Jornal</a>
+        <a href="carteirinha.html">Carteirinha</a>
+        <a href="contatos.html">Contatos</a>
+      </nav>
+    </header>
+
+    <main id="conteudo">
+      <section class="hero-grid" id="inicio" aria-labelledby="titulo-principal">
+        <article class="headline">
+          <span class="section-label">UEP Cândido Pinto</span>
+          <h1 id="titulo-principal">UEP Cândido Pinto</h1>
+          <p class="hero-intro">Organize sua vida estudantil.</p>
+          <p>
+            A UEP é uma entidade estudantil que representa estudantes de graduação, pós-graduação, mestrado e doutorado,
+            unindo memória, comunicação, carteirinha, jornais e mobilização em defesa da educação em Pernambuco.
+          </p>
+          <div class="lead-actions">
+            <a class="button button-primary" href="carteirinha.html">Fazer carteirinha</a>
+            <a class="button button-secondary" href="blog.html">Ler notícias</a>
+          </div>
+        </article>
+      </section>
+
+      <section class="movement-section" id="sobre" aria-labelledby="sobre-titulo">
+        <div class="movement-media">
+          <img src="assets/logo-uep.jpg" alt="Logo da UEP Cândido Pinto" width="2048" height="2047" loading="lazy" decoding="async" />
+        </div>
+        <div class="movement-copy">
+          <h2 id="sobre-titulo">Uma entidade de base, memória e combate em defesa dos estudantes.</h2>
+          <p>
+            A UEP Cândido Pinto organiza estudantes pernambucanos, fortalece entidades de base e mantém viva a história
+            de quem enfrentou perseguição, autoritarismo e ataques aos direitos estudantis.
+          </p>
+          <a class="button button-primary" href="historia.html">Conheça a história</a>
+        </div>
+      </section>
+
+      <section class="news-section" id="posts" aria-labelledby="posts-titulo">
+        <div class="section-heading">
+          <h2 id="posts-titulo">Publicações para acompanhar a luta estudantil</h2>
+          <a href="blog.html">Ver todos os posts</a>
+        </div>
+
+        <div class="news-layout" id="home-news-layout" aria-live="polite"></div>
+      </section>
+
+      <section class="shirt-campaign" id="camisas" aria-labelledby="camisas-titulo">
+        <div class="campaign-heading">
+          <div>
+            <h2 id="camisas-titulo">Adquira sua camisa da UEP</h2>
+            <p>Escolha a sua e se some na luta pela educação.</p>
+          </div>
+          <div class="campaign-price" aria-label="Preço de qualquer modelo: dez reais">
+            <span>Qualquer modelo</span>
+            <strong>R$ 10</strong>
+          </div>
+        </div>
+
+        <div class="campaign-gallery" aria-label="Modelos disponíveis">
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdWMeaoG_vTb2RS-ohubyJGpN9RegZ4UWvLZWNzGQOruXQzmg/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Pedir camisa da UEP, opções 1 e 2"
+          >
+            <img src="assets/camisas/camisas-uep-opcoes-1-2.jpg" alt="Camisas da UEP, opções 1 e 2" width="1080" height="1350" loading="lazy" decoding="async" />
+          </a>
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdWMeaoG_vTb2RS-ohubyJGpN9RegZ4UWvLZWNzGQOruXQzmg/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Pedir camisa da UEP, opção 3"
+          >
+            <img src="assets/camisas/camisa-uep-opcao-3.jpg" alt="Camisa da UEP, opção 3" width="1080" height="1350" loading="lazy" decoding="async" />
+          </a>
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdWMeaoG_vTb2RS-ohubyJGpN9RegZ4UWvLZWNzGQOruXQzmg/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Pedir camisa da UEP, opção 4"
+          >
+            <img src="assets/camisas/camisa-uep-opcao-4.jpg" alt="Camisa da UEP, opção 4" width="1080" height="1350" loading="lazy" decoding="async" />
+          </a>
+        </div>
+
+        <div class="campaign-footer">
+          <p>As quatro opções estão disponíveis no formulário oficial da campanha.</p>
+          <div class="lead-actions">
+            <a
+              class="button button-primary"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdWMeaoG_vTb2RS-ohubyJGpN9RegZ4UWvLZWNzGQOruXQzmg/viewform"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Quero minha camisa</a>
+            <a
+              class="button button-secondary"
+              href="https://www.instagram.com/p/DadjHa1keMh/?img_index=1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Ver publicação no Instagram</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="service-split" id="carteirinha" aria-label="Carteira de estudante">
+        <div>
+          <div class="journal-labels">
+            <span class="story-tag">Serviço estudantil</span>
+            <span class="story-tag">Carteira de estudante 2026</span>
+          </div>
+          <strong class="service-callout">Solicite sua carteirinha com a UEP</strong>
+          <h2>Carteirinha, meia-entrada e documentação estudantil sem enrolação.</h2>
+          <p>
+            Clique no cartaz ou no botão para abrir o formulário oficial da carteira de estudante 2026 pelos canais da
+            UEP.
+          </p>
+          <a
+            class="button button-primary"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScxvZ8q77nwtjyqA-0_Ea-_c1G5LPIcceUSfxbyNqLgDuhk8g/viewform?usp=send_form"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Abrir formulário oficial
+          </a>
+        </div>
+        <a
+          class="poster-link"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScxvZ8q77nwtjyqA-0_Ea-_c1G5LPIcceUSfxbyNqLgDuhk8g/viewform?usp=send_form"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="assets/carteirinha-2026.jfif" alt="Cartaz da carteira de estudante UEP 2026" width="1080" height="1080" loading="lazy" decoding="async" />
+        </a>
+      </section>
+
+      <section class="journal-section" id="jornais" aria-labelledby="jornais-titulo">
+        <div class="section-heading journal-heading">
+          <p class="section-label">Edição impressa</p>
+          <h2 id="jornais-titulo">Jornais da entidade</h2>
+        </div>
+
+        <article class="journal-showcase">
+          <a class="journal-cover" href="jornais/jornal-uep-outubro-2025.pdf" aria-label="Ler Jornal da UEP - Outubro 2025">
+            <img src="assets/jornal-outubro-2025-capa.png" alt="Capa do Jornal da UEP - Outubro 2025" width="900" height="636" loading="lazy" decoding="async" />
+          </a>
+          <div class="journal-copy">
+            <div class="journal-labels">
+              <span class="pdf-mark">PDF</span>
+              <span class="story-tag">Outubro 2025</span>
+            </div>
+            <h3>Jornal da UEP - Outubro 2025</h3>
+            <p>
+              A edição impressa da entidade em destaque, com capa em miniatura e acesso direto para leitura ou download.
+            </p>
+            <div class="lead-actions">
+              <a class="button button-primary" href="jornais/jornal-uep-outubro-2025.pdf">
+                Ler edição
+              </a>
+              <a class="button button-secondary" href="jornais/jornal-uep-outubro-2025.pdf" download>Baixar edição</a>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="organize-section" aria-labelledby="organize-titulo">
+        <div>
+          <p class="section-label">Participe</p>
+          <h2 id="organize-titulo">Quer construir a UEP na sua universidade?</h2>
+          <p>
+            Acompanhe as redes oficiais, envie sua demanda e ajude a fortalecer DCEs, CAs, DAs e coletivos estudantis
+            de Pernambuco.
+          </p>
+        </div>
+        <div class="organize-actions">
+          <a class="button button-primary" href="redes.html">Ir para redes oficiais</a>
+          <a class="button button-secondary" href="contatos.html">Entrar em contato</a>
+        </div>
+      </section>
+
+      <section class="social-section" id="redes" aria-labelledby="redes-titulo">
+        <div class="social-copy">
+          <p class="section-label">Redes sociais</p>
+          <h2 id="redes-titulo">Acompanhe a UEP nas plataformas oficiais</h2>
+          <p>
+            Siga os canais da entidade para receber chamadas de assembleias, campanhas, notas públicas e orientações
+            sobre a carteirinha.
+          </p>
+        </div>
+
+        <div class="social-links">
+          <a href="https://www.instagram.com/uepoficial/">
+            <span>IG</span>
+            Instagram
+          </a>
+          <a href="https://web.facebook.com/oficialUEP">
+            <span>f</span>
+            Facebook
+          </a>
+          <a href="https://linktr.ee/uepoficial">
+            <span>+</span>
+            Link oficial
+          </a>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong>UEP Cândido Pinto</strong>
+        <span>União dos Estudantes de Pernambuco</span>
+        <small>© 2026 UEP Cândido Pinto. Todos os direitos reservados.</small>
+      </div>
+      <nav aria-label="Rodapé">
+        <a href="#inicio">Topo</a>
+        <a href="blog.html">Blog</a>
+        <a href="jornal.html">Jornal</a>
+        <a href="carteirinha.html">Carteirinha</a>
+        <a href="politica.html">Privacidade e cookies</a>
+      </nav>
+    </footer>
+
+    <dialog class="access-dialog" id="accessPanel">
+      <button class="dialog-close" type="button" data-close-access-panel aria-label="Fechar acessibilidade">×</button>
+      <p class="section-label">Acessibilidade</p>
+      <h2>Ajustes de leitura e conforto</h2>
+      <p>As preferências ficam salvas neste navegador.</p>
+      <div class="access-grid">
+        <label class="toggle-row">
+          Alto contraste
+          <input type="checkbox" data-access-pref="highContrast" />
+        </label>
+        <label class="toggle-row">
+          Fonte maior
+          <input type="checkbox" data-access-pref="largeFont" />
+        </label>
+        <label class="toggle-row">
+          Modo escuro
+          <input type="checkbox" data-access-pref="darkMode" />
+        </label>
+        <label class="toggle-row">
+          Redução sensorial
+          <input type="checkbox" data-access-pref="calmMode" />
+        </label>
+      </div>
+    </dialog>
+
+    <script src="artigos.js" defer></script>
+    <script src="script.js" defer></script>
+  </body>
+</html>
+
+
+
+
